@@ -1,0 +1,996 @@
+,name,rating,review,salary,job,highly_rated,sector,location
+0,TCS,3.2,120000.0,1050000.0,4100.0,Promotions,IT Services & Consulting,Bengaluru
+1,Accenture,3.7,79600.0,740000.0,14900.0,Promotions,IT Services & Consulting,Bengaluru
+2,Wipro,3.6,69900.0,490000.00000000006,6.0,Promotions,IT Services & Consulting,Hyderabad
+3,Cognizant,3.7,66000.0,610000.0,782.0,Promotions,IT Services & Consulting,Hyderabad
+4,Capgemini,3.6,58000.0,500000.0,2000.0,Work Life Balance,IT Services & Consulting,Bengaluru
+5,HDFC,3.8,57600.0,160000.0,400.0,Job Security,Banking,Mumbai
+6,Infosys,3.5,52700.0,540000.0,4600.0,Job Security,IT Services & Consulting,Bengaluru
+7,HCLTech,3.4,49700.0,400000.0,374.0,Promotions,IT Services & Consulting,Bengaluru
+8,ICICI,4.0,48900.0,160000.0,57.0,Job Security,Banking,Mumbai
+9,Tech,3.3,46900.0,290000.0,668.0,Promotions,IT Services & Consulting,Hyderabad
+10,Genpact,3.6,46300.0,240000.0,554.0,Job Security,Analytics & KPO,Hyderabad
+11,TP,3.8,42500.0,100000.0,1200.0,Promotions,BPO,Mumbai
+12,Axis,3.6,36600.0,100000.0,312.0,Promotions,Banking,Mumbai
+13,Jio,4.3,35500.0,61400.0,0.0,Job Security,Telecom,Mumbai
+14,Concentrix,3.5,35400.0,140000.0,71.0,Job Security,BPO,Bengaluru
+15,Amazon,3.9,34700.0,160000.0,42.0,Company Culture,Internet,Bengaluru
+16,Reliance,3.9,29700.0,75600.0,78.0,Job Security,Retail,Mumbai
+17,iEnergizer,4.5,28600.0,25800.0,48.0,Salary,BPO,Noida
+18,LTM,3.5,28500.0,210000.0,669.0,Promotions,IT Services & Consulting,Bengaluru
+19,HDB,3.9,28100.0,49800.0,14.0,Work Life Balance,NBFC,Mumbai
+20,IBM,3.9,27600.0,220000.00000000003,411.0,Work Life Balance,IT Services & Consulting,Bengaluru
+21,Larsen,3.9,26500.0,78500.0,271.0,Job Security,Engineering & Construction,Mumbai
+22,Deloitte,3.6,25800.0,290000.0,404.0,Promotions,Management Consulting,Hyderabad
+23,Kotak,3.6,24400.0,89400.0,157.0,Promotions,Banking,Mumbai
+24,Reliance,4.0,22100.0,77000.0,82.0,Job Security,Oil & Gas,Jamnagar
+25,Bharti,3.8,18600.0,51800.0,160.0,Promotions,Telecom,Gurugram
+26,Vodafone,3.9,18600.0,48600.0,61.0,Salary,Telecom,Pune
+27,WNS,3.3,16700.0,72000.0,32.0,Promotions,IT Services & Consulting,Pune
+28,IDFC,4.0,16600.0,52400.0,128.0,Salary,Banking,Mumbai
+29,BYJU,3.2,16600.0,48900.0,5.0,Job Security,EdTech,Bengaluru
+30,Ernst,3.4,16200.0,150000.0,3700.0,Promotions,Management Consulting,Bengaluru
+31,IndusInd,3.4,15600.0,54100.0,118.0,Promotions,Banking,Mumbai
+32,AU,3.8,15500.0,31700.0,5800.0,Promotions,Banking,Jaipur
+33,Tata,4.1,15400.0,45400.0,45.0,Company Culture,Automobile,Pune
+34,Bajaj,3.9,15200.0,33700.0,2.0,Salary,NBFC,Pune
+35,Flipkart,3.9,14200.0,58300.0,85.0,Company Culture,Internet,Bengaluru
+36,Muthoot,4.5,14100.0,10600.0,68.0,Company Culture,NBFC,Bengaluru
+37,PwC,3.3,14100.0,140000.0,1400.0,Promotions,Management Consulting,Bengaluru
+38,Mahindra,4.0,13300.0,42700.0,3.0,Job Security,Automobile,Pune
+39,HDFC,3.8,13200.0,34800.0,220.0,Skill Development,Insurance,Mumbai
+40,Infosys,3.5,13000.0,79400.0,242.0,Job Security,BPO,Bengaluru
+41,DXC,3.6,12800.0,72400.0,127.0,Work Life Balance,IT Services & Consulting,Bengaluru
+42,Bandhan,3.6,12700.0,28500.0,0.0,Promotions,Banking,Kolkata
+43,Digitide,3.4,11400.0,27700.0,336.0,Promotions,IT Services & Consulting,Hyderabad
+44,Yes,3.6,11100.0,43700.0,202.0,Job Security,Banking,Mumbai
+45,Mphasis,3.2,11000.0,76200.0,75.0,Promotions,IT Services & Consulting,Bengaluru
+46,Quess,3.8,11000.0,32600.0,8.0,Promotions,Recruitment,Bengaluru
+47,Tata,4.0,11000.0,35300.0,0.0,Work Life Balance,Iron & Steel,Jamshedpur
+48,Maruti,4.1,10600.0,30000.0,733.0,Job Security,Automobile,Gurugram
+49,UltraTech,4.1,10600.0,26500.0,96.0,Job Security,Building Material,Mumbai
+50,Startek,3.0,10600.0,25300.0,340.0,Promotions,BPO,Bengaluru
+51,Bajaj,3.9,10500.0,24600.0,7600.0,Salary,NBFC,Pune
+52,Asian,3.9,10400.0,27200.0,91.0,Salary,Chemicals,Mumbai
+53,Paytm,3.2,10200.0,34700.0,1200.0,Job Security,FinTech,Noida
+54,Sutherland,3.3,10100.0,37900.0,394.0,Promotions,BPO,Chennai
+55,Shriram,3.9,10100.0,16700.0,9.0,Job Security,NBFC,Chennai
+56,Coforge,3.3,9700.0,70000.0,375.0,Promotions,IT Services & Consulting,Hyderabad
+57,Equitas,4.3,9600.0,14500.0,67.0,Job Security,Banking,Chennai
+58,Wells,3.5,9500.0,67900.0,94.0,Promotions,Financial Services,Bengaluru
+59,Cipla,4.1,9400.0,27200.0,40.0,Salary,Pharma,Mumbai
+60,EXL,3.6,9200.0,45600.0,156.0,Job Security,Analytics & KPO,Noida
+61,Ericsson,3.9,9000.0,42300.0,26.0,Work Life Balance,Telecom,Noida
+62,Samsung,3.9,8900.0,27000.0,67.0,Promotions,Consumer Electronics & Appliances,Noida
+63,Dr,4.0,8900.0,26500.0,64.0,Company Culture,Pharma,Hyderabad
+64,Delhivery,3.8,8800.0,23700.0,437.0,Promotions,Logistics,Gurugram
+65,JSW,3.9,8800.0,33000.0,176.0,Job Security,Iron & Steel,Ballari
+66,Optum,4.0,8700.0,53600.0,310.0,Job Security,IT Services & Consulting,Hyderabad
+67,Ekart,3.9,8700.0,18600.0,0.0,Skill Development,Logistics,Bengaluru
+68,Hexaware,3.4,8500.0,57600.0,1600.0,Promotions,IT Services & Consulting,Chennai
+69,Ujjivan,4.0,8500.0,13500.0,138.0,Company Culture,Banking,Bengaluru
+70,ICICI,3.9,8400.0,24100.0,30.0,Job Security,Insurance,Mumbai
+71,JPMorgan,3.8,8400.0,94800.0,270.0,Job Security,Financial Services,Bengaluru
+72,Jana,3.7,8400.0,14500.0,98.0,Salary,Banking,Bengaluru
+73,Zydus,4.0,8300.0,20700.0,50.0,Salary,Pharma,Ahmedabad
+74,Sun,4.0,8300.0,24500.0,239.0,Salary,Pharma,Vadodara
+75,KPMG,3.4,8100.0,72800.0,49.0,Promotions,Management Consulting,Bengaluru
+76,Axis,4.0,8000.0,21200.0,2400.0,Company Culture,Insurance,New Delhi
+77,Lupin,4.1,7900.0,23000.0,70.0,Skill Development,Pharma,Pune
+78,HGS,3.7,7900.0,19900.0,45.0,Promotions,Emerging Technologies,Bengaluru
+79,ITC,3.8,7900.0,26200.0,35.0,Job Security,FMCG,Bengaluru
+80,Hindustan,4.2,7800.0,20500.0,35.0,Skill Development,FMCG,Mumbai
+81,Megha,4.0,7800.0,19700.0,32.0,Work Life Balance,Engineering & Construction,Hyderabad
+82,Amazon,3.8,7700.0,40000.0,22.0,Company Culture,Internet,Hyderabad
+83,Cholamandalam,3.9,7700.0,14000.0,170.0,Salary,Financial Services,Chennai
+84,L,4.0,7600.0,19300.0,0.0,Job Security,Engineering & Construction,Chennai
+85,Tata,4.2,7500.0,23300.0,57.0,Salary,Engineering & Construction,Mumbai
+86,Bajaj,3.8,7500.0,18600.0,92.0,Salary,Insurance,Pune
+87,L,3.1,7300.0,46800.0,1.0,Promotions,IT Services & Consulting,Bengaluru
+88,Muthoot,3.7,7200.0,14000.0,147.0,Job Security,NBFC,Bengaluru
+89,JLL,4.1,7200.0,26700.0,683.0,Job Security,Real Estate,Gurugram
+90,Omega,3.7,7100.0,29400.0,151.0,Promotions,BPO,Chennai
+91,Oracle,3.1,7100.0,66000.0,13.0,Promotions,Software Product,Bengaluru
+92,FIS,3.7,7000.0,38600.0,196.0,Work Life Balance,FinTech,Pune
+93,DMart,3.9,7000.0,20600.0,318.0,Job Security,Retail,Mumbai
+94,eClerx,3.1,6900.0,34800.0,363.0,Promotions,IT Services & Consulting,Pune
+95,IIFL,4.0,6900.0,14200.0,53.0,Work Life Balance,NBFC,Mumbai
+96,PolicyBazaar,3.7,6900.0,19900.0,1200.0,Salary,Internet,Gurugram
+97,Indian,4.7,6800.0,9800.0,0.0,Job Security,Defence & Aerospace,New Delhi
+98,Indiamart,3.6,6700.0,22000.0,235.0,Work Satisfaction,Internet,Noida
+99,Piramal,4.2,6700.0,13400.0,111.0,Company Culture,NBFC,Mumbai
+100,SMFG,3.9,6700.0,11800.0,92.0,Salary,NBFC,Mumbai
+101,Virtusa,3.6,6600.0,58000.0,253.0,Promotions,IT Services & Consulting,Hyderabad
+102,Manappuram,4.0,6600.0,10100.0,14.0,Work Life Balance,NBFC,Bengaluru
+103,bigbasket,3.9,6500.0,20600.0,90.0,Job Security,Internet,Bengaluru
+104,HSBC,3.8,6500.0,46900.0,111.0,Work Life Balance,Financial Services,Bengaluru
+105,Access,3.7,6500.0,30800.0,681.0,Promotions,BPO,Chennai
+106,GlobalLogic,3.5,6400.0,43500.0,77.0,Promotions,IT Services & Consulting,Hyderabad
+107,Firstsource,3.4,6300.0,25900.0,67.0,Promotions,BPO,Bengaluru
+108,Apollo,4.0,6300.0,17600.0,88.0,Job Security,Healthcare,Chennai
+109,Tata,4.0,6300.0,17100.0,6200.0,Company Culture,NBFC,Mumbai
+110,ICICI,3.5,6300.0,20800.0,210.0,Promotions,Insurance,Mumbai
+111,Siemens,4.0,6300.0,36200.0,44.0,Company Culture,Industrial Automation,Bengaluru
+112,HCL,3.5,6200.0,37000.0,0.0,Promotions,IT Services & Consulting,Chennai
+113,Shapoorji,4.1,6200.0,15700.0,69.0,Job Security,Engineering & Construction,Mumbai
+114,Aurobindo,4.0,6200.0,20200.0,27.0,Job Security,Pharma,Hyderabad
+115,UST,3.7,6200.0,41700.0,617.0,Work Life Balance,IT Services & Consulting,Bengaluru
+116,Mahindra,3.8,6200.0,12500.0,181.0,Promotions,NBFC,Mumbai
+117,Swiggy,3.7,6100.0,25500.0,202.0,Job Security,Internet,Bengaluru
+118,Standard,3.6,6100.0,42600.0,9.0,Promotions,Banking,Chennai
+119,Bosch,3.7,6100.0,41900.0,25.0,Work Life Balance,IT Services & Consulting,Bengaluru
+120,Hero,4.1,6000.0,17300.0,0.0,Work Life Balance,Automobile,Gurugram
+121,Ashok,4.0,6000.0,19400.0,4.0,Skill Development,Automobile,Chennai
+122,Citicorp,3.6,5900.0,56000.0,0.0,Salary,Financial Services,Pune
+123,CGI,4.0,5900.0,48700.0,455.0,Work Life Balance,IT Services & Consulting,Bengaluru
+124,Udaan,3.9,5900.0,14300.0,0.0,Salary,Internet,Bengaluru
+125,Kalpataru,4.1,5900.0,14800.0,2.0,Job Security,Engineering & Construction,Mumbai
+126,NTT,3.8,5800.0,40600.0,0.0,Work Life Balance,IT Services & Consulting,Bengaluru
+127,Nagarjuna,4.0,5800.0,13100.0,21.0,Job Security,Engineering & Construction,Hyderabad
+128,SBI,3.7,5800.0,16000.0,107.0,Promotions,Financial Services,Gurugram
+129,IQVIA,3.7,5800.0,32900.0,41.0,Work Life Balance,Clinical Research,Bengaluru
+130,Schneider,4.1,5800.0,27200.0,498.0,Company Culture,Industrial Automation,Bengaluru
+131,SBI,3.7,5700.0,12400.0,11.0,Job Security,Insurance,Mumbai
+132,BNY,3.6,5700.0,32600.0,60.0,Work Life Balance,Financial Services,Pune
+133,CBRE,4.2,5600.0,20000.0,25.0,Company Culture,Real Estate,Hyderabad
+134,Cyient,3.6,5600.0,28000.0,201.0,Promotions,IT Services & Consulting,Hyderabad
+135,TVS,3.8,5600.0,17600.0,239.0,Job Security,Automobile,Hosur
+136,State,3.9,5600.0,12100.0,21.0,Job Security,Banking,Mumbai
+137,Persistent,3.6,5600.0,49300.0,461.0,Promotions,IT Services & Consulting,Pune
+138,JustDial,3.4,5500.0,15500.0,24.0,Promotions,Internet,Noida
+139,KEC,4.0,5500.0,14300.0,29.0,Job Security,Engineering & Construction,Mumbai
+140,ITC,3.8,5400.0,30900.0,339.0,Work Life Balance,IT Services & Consulting,Bengaluru
+141,Lenskart,3.4,5400.0,14600.0,258.0,Promotions,Internet,New Delhi
+142,Utkarsh,3.5,5400.0,12000.0,46.0,Promotions,Banking,Varanasi
+143,Varun,4.0,5400.0,13100.0,35.0,Job Security,Beverage,New Delhi
+144,Amdocs,3.6,5300.0,38200.0,0.0,Promotions,Software Product,Pune
+145,vivo,4.0,5300.0,13000.0,15.0,Company Culture,Consumer Electronics & Appliances,Noida
+146,Atos,3.8,5300.0,32900.0,61.0,Work Life Balance,IT Services & Consulting,Pune
+147,JBM,3.9,5200.0,14500.0,71.0,Job Security,Auto Components,Gurugram
+148,Hetero,3.9,5200.0,15900.0,85.0,Job Security,Pharma,Hyderabad
+149,Randstad,3.7,5200.0,18200.0,47.0,Promotions,Recruitment,Hyderabad
+150,L,3.9,5100.0,12400.0,0.0,Salary,NBFC,Mumbai
+151,Havells,3.9,5100.0,16500.0,39.0,Work Life Balance,Electrical Equipment,Noida
+152,Aditya,4.1,5100.0,13700.0,79.0,Job Security,Fashion & Textile,Bengaluru
+153,Ecom,4.1,5100.0,9300.0,0.0,Work Life Balance,Logistics,Gurugram
+154,Tata,3.8,5100.0,15600.0,720.0,Job Security,Insurance,Mumbai
+155,Intas,4.1,5100.0,18300.0,45.0,Job Security,Pharma,Ahmedabad
+156,R,3.7,5100.0,23500.0,182.0,Job Security,BPO,Hyderabad
+157,Bosch,4.1,5100.0,21700.0,2.0,Company Culture,Auto Components,Bengaluru
+158,EY,3.4,5100.0,55700.0,15.0,Promotions,IT Services & Consulting,Bengaluru
+159,Nagarro,3.8,5000.0,34700.0,332.0,Work Life Balance,IT Services & Consulting,Gurugram
+160,Berger,3.7,5000.0,11400.0,321.0,Promotions,Chemicals,Kolkata
+161,Cars,3.4,5000.0,16200.0,50.0,Job Security,Internet,Gurugram
+162,TeamLease,3.9,4900.0,17200.0,0.0,Work Life Balance,Recruitment,Bengaluru
+163,Mahindra,3.7,4900.0,13000.0,96.0,Promotions,Logistics,Pune
+164,Hewlett,4.1,4900.0,27900.0,324.0,Company Culture,IT Services & Consulting,Bengaluru
+165,Dell,3.7,4900.0,29800.0,16.0,Work Life Balance,Consumer Electronics & Appliances,Bengaluru
+166,Eviden,3.6,4900.0,25700.0,0.0,Work Life Balance,IT Services & Consulting,Pune
+167,VE,3.9,4800.0,15200.0,18.0,Job Security,Automobile,Indore
+168,Motilal,3.6,4800.0,14100.0,36.0,Promotions,Financial Services,Mumbai
+169,Deutsche,3.9,4800.0,39600.0,341.0,Work Life Balance,Banking,Pune
+170,Home,3.9,4800.0,9100.0,104.0,Work Life Balance,NBFC,Gurugram
+171,OPPO,3.8,4800.0,11700.0,10.0,Skill Development,Consumer Electronics & Appliances,Greater Noida
+172,Hyundai,4.1,4800.0,15000.0,1.0,Job Security,Automobile,Chennai
+173,Jubilant,3.7,4800.0,10400.0,271.0,Promotions,Hospitality,New Delhi
+174,Thermax,4.2,4700.0,13900.0,37.0,Job Security,Industrial Machinery,Pune
+175,Hindalco,4.2,4700.0,13700.0,20.0,Job Security,Metals & Mining,Sambalpur
+176,Jindal,4.0,4700.0,17000.0,46.0,Skill Development,Iron & Steel,Angul
+177,Blinkit,3.8,4700.0,16100.000000000002,3.0,Skill Development,Internet,Gurugram
+178,Carelon,3.9,4600.0,29500.0,80.0,Company Culture,IT Services & Consulting,Bengaluru
+179,Macleods,3.8,4600.0,16400.0,25.0,Job Security,Pharma,Mumbai
+180,Aakash,3.2,4600.0,14600.0,53.0,Promotions,Education & Training,New Delhi
+181,State,3.5,4600.0,35300.0,7.0,Promotions,Financial Services,Bengaluru
+182,Bajaj,3.8,4500.0,15400.0,40.0,Promotions,Automobile,Pune
+183,LG,3.8,4500.0,11700.0,13.0,Job Security,Consumer Electronics & Appliances,Pune
+184,PhonePe,3.9,4500.0,15100.0,31.0,Salary,FinTech,Bengaluru
+185,RBL,3.5,4500.0,19200.0,61.0,Promotions,Banking,Mumbai
+186,Royal,4.2,4500.0,15400.0,7.0,Company Culture,Automobile,Chennai
+187,DCB,3.8,4500.0,10100.0,16.0,Work Life Balance,Banking,Mumbai
+188,HDFC,3.9,4400.0,12500.0,14.0,Work Life Balance,Insurance,Mumbai
+189,Aditya,3.9,4400.0,11500.0,0.0,Company Culture,Insurance,Mumbai
+190,Cummins,4.3,4400.0,15900.0,247.0,Company Culture,Industrial Machinery,Pune
+191,Grasim,4.0,4400.0,14300.0,5.0,Job Security,Building Material,Bharuch
+192,Cloudnine,4.5,4400.0,3300.0,34.0,Company Culture,Healthcare,Bengaluru
+193,Alembic,3.9,4400.0,15900.0,61.0,Salary,Pharma,Vadodara
+194,John,4.0,4300.0,16200.0,4.0,Company Culture,Industrial Machinery,Pune
+195,Publicis,3.2,4300.0,33800.0,101.0,Promotions,IT Services & Consulting,Bengaluru
+196,Tata,3.8,4300.0,23900.0,300.0,Work Life Balance,Telecom,Pune
+197,PNB,3.3,4300.0,8800.0,1.0,Job Security,Insurance,New Delhi
+198,Pidilite,4.2,4300.0,12600.0,8.0,Job Security,Chemicals,Mumbai
+199,Kyndryl,3.9,4300.0,29500.0,868.0,Work Life Balance,IT Services & Consulting,Bengaluru
+200,Kogta,4.6,4300.0,2200.0,92.0,Company Culture,NBFC,Jaipur
+201,Aditya,3.8,4300.0,15000.0,120.0,Promotions,NBFC,Mumbai
+202,JK,4.0,4200.0,10800.0,5.0,Salary,Building Material,New Delhi
+203,Bank,4.1,4200.0,31400.0,1.0,Job Security,Banking,Gurugram
+204,KPIT,2.8,4200.0,25100.0,37.0,Promotions,Software Product,Pune
+205,Escorts,4.1,4200.0,14200.0,2.0,Company Culture,Industrial Machinery,Faridabad
+206,Tata,3.8,4200.0,15500.0,35.0,Job Security,Semiconductors,Hosur
+207,Subros,3.7,4200.0,13100.0,1.0,Job Security,Auto Components,Noida
+208,American,4.1,4200.0,26600.0,345.0,Work Life Balance,Financial Services,Gurugram
+209,ADP,3.9,4200.0,22300.0,31.0,Job Security,Software Product,Hyderabad
+210,PVR,3.8,4100.0,9900.0,27.0,Promotions,Media & Entertainment,New Delhi
+211,Maersk,3.8,4100.0,20400.0,313.0,Work Life Balance,Logistics,Chennai
+212,Cogent,3.1,4100.0,10700.0,2.0,Company Culture,BPO,Noida
+213,XpressBees,4.1,4100.0,8500.0,4.0,Work Life Balance,Logistics,Pune
+214,Viatris,4.1,4100.0,14600.0,13.0,Salary,Pharma,Bengaluru
+215,Oyo,2.9,4100.0,12700.0,191.0,Job Security,Hospitality,Gurugram
+216,Glenmark,3.8,4100.0,12600.0,112.0,Promotions,Pharma,Mumbai
+217,Altruist,4.3,4100.0,8600.0,4.0,Job Security,BPO,Bengaluru
+218,ArcelorMittal,4.1,4100.0,13600.0,296.0,Work Life Balance,Metals & Mining,Surat
+219,Sodexo,4.0,4100.0,10500.0,1900.0,Work Life Balance,Hospitality,Mumbai
+220,Kotak,3.5,4100.0,12900.0,796.0,Work Satisfaction,Insurance,Mumbai
+221,Bharat,4.2,4100.0,13100.0,0.0,Work Life Balance,Electronics Manufacturing,Bengaluru
+222,Synechron,3.4,4100.0,29800.0,195.0,Job Security,IT Services & Consulting,Pune
+223,UNO,3.9,4100.0,12400.0,111.0,Job Security,Auto Components,Pune
+224,Birlasoft,3.4,4000.0,29700.0,496.0,Promotions,IT Services & Consulting,Pune
+225,Dabur,3.8,4000.0,9600.0,29.0,Salary,FMCG,New Delhi
+226,Reliance,4.0,4000.0,9600.0,0.0,Skill Development,Telecom,Mumbai
+227,TVS,4.1,3900.0,8000.0,52.0,Work Life Balance,NBFC,Chennai
+228,Godrej,3.8,3900.0,15600.0,15.0,Job Security,Consumer Electronics & Appliances,Mumbai
+229,Reliance,4.1,3900.0,8500.0,1.0,Skill Development,Retail,Mumbai
+230,Ipca,3.8,3900.0,12000.0,87.0,Job Security,Pharma,Mumbai
+231,Abbott,4.1,3900.0,12500.0,188.0,Work Life Balance,Pharma,Mumbai
+232,MRF,3.6,3900.0,13300.0,17.0,Company Culture,Auto Components,Chennai
+233,IGT,3.1,3900.0,14000.0,212.0,Promotions,BPO,New Delhi
+234,Aarti,4.1,3900.0,14700.0,52.0,Job Security,Agro Chemicals,Bharuch
+235,Sagility,3.9,3900.0,14800.0,53.0,Job Security,BPO,Bengaluru
+236,Alkem,3.9,3900.0,10500.0,53.0,Salary,Pharma,Mumbai
+237,Reliance,4.0,3900.0,7800.0,0.0,Job Security,Other,Kolkata
+238,Indian,4.3,3900.0,8400.0,0.0,Work Life Balance,Oil & Gas,New Delhi
+239,Vishal,3.7,3800.0,6600.0,4.0,Salary,Retail,New Delhi
+240,Honda,4.1,3800.0,11400.0,13.0,Job Security,Automobile,Gurugram
+241,Samvardhana,3.7,3800.0,12000.0,59.0,Job Security,Auto Components,Noida
+242,DTDC,3.7,3800.0,9400.0,28.0,Promotions,Logistics,New Delhi
+243,Barclays,3.7,3800.0,36000.0,0.0,Promotions,Banking,Pune
+244,ABB,4.0,3800.0,19600.0,191.0,Company Culture,Industrial Machinery,Bengaluru
+245,RSPL,4.0,3800.0,10400.0,103.0,Job Security,FMCG,Kanpur
+246,Niva,3.9,3700.0,9200.0,257.0,Work Life Balance,Insurance,New Delhi
+247,Bajaj,3.6,3700.0,11300.0,18.0,Promotions,Insurance,Pune
+249,NTT,4.0,3700.0,20700.0,93.0,Work Life Balance,IT Services & Consulting,Bengaluru
+250,Johnson,3.6,3700.0,18100.0,0.0,Promotions,Industrial Automation,Pune
+251,AGS,3.9,3700.0,15800.0,58.0,Company Culture,Analytics & KPO,Chennai
+252,Zepto,3.6,3700.0,12600.0,36.0,Job Security,Internet,Bengaluru
+253,IndusInd,3.3,3700.0,8000.0,21.0,Job Security,Insurance,Mumbai
+254,Croma,3.8,3700.0,10300.0,61.0,Work Life Balance,Retail,Mumbai
+255,Hindustan,4.0,3700.0,8200.0,96.0,Salary,Beverage,Bengaluru
+256,Ceat,3.9,3700.0,13200.0,46.0,Job Security,Auto Components,Nagpur
+257,Jindal,4.2,3600.0,12600.0,153.0,Job Security,Iron & Steel,Jajpur
+258,UBS,3.7,3600.0,32299.999999999996,0.0,Work Life Balance,Financial Services,Pune
+259,InterGlobe,3.4,3600.0,14400.0,30.0,Salary,Aviation,New Delhi
+260,Alstom,3.7,3600.0,16600.0,29.0,Job Security,Engineering & Construction,Bengaluru
+261,Tata,3.7,3600.0,12400.0,133.0,Job Security,Auto Components,Pune
+262,NatWest,3.9,3600.0,22300.0,2.0,Work Life Balance,Banking,Gurugram
+263,Ford,4.2,3600.0,15700.0,3.0,Company Culture,Automobile,Chennai
+264,Conduent,3.4,3600.0,17500.0,695.0,Promotions,BPO,Bengaluru
+265,Tata,3.4,3600.0,24200.0,288.0,Promotions,Automobile,Pune
+266,Max,4.0,3500.0,11000.0,136.0,Skill Development,Healthcare,New Delhi
+267,Tata,3.9,3500.0,12000.0,41.0,Job Security,Insurance,Mumbai
+268,Bharat,3.7,3500.0,6100.0,1.0,Salary,Financial Services,Hyderabad
+269,HARMAN,3.9,3500.0,23900.0,97.0,Work Life Balance,Consumer Electronics & Appliances,Bengaluru
+270,GeBBS,3.8,3500.0,11600.0,62.0,Job Security,BPO,Mumbai
+271,Indian,4.5,3500.0,5600.0,2.0,Job Security,Defence & Aerospace,New Delhi
+272,Mankind,3.8,3500.0,10200.0,15.0,Salary,Pharma,New Delhi
+273,ESAF,3.6,3500.0,8500.0,12.0,Promotions,Banking,Thrissur
+274,IDFC,4.1,3500.0,5600.0,3.0,Work Life Balance,Financial Services,Chennai
+275,Ola,3.3,3500.0,10300.0,1.0,Job Security,Automobile,Bengaluru
+276,Canara,4.1,3500.0,6500.0,2.0,Work Life Balance,Insurance,Gurugram
+277,Titan,4.3,3500.0,10300.0,126.0,Company Culture,Retail,Bengaluru
+278,MSN,3.6,3500.0,10400.0,44.0,Job Security,Pharma,Hyderabad
+279,Amazon,4.2,3500.0,9200.0,0.0,Company Culture,Logistics,Hyderabad
+280,PepsiCo,4.0,3500.0,15100.0,300.0,Company Culture,Food Processing,Hyderabad
+281,UPL,4.1,3500.0,11300.0,50.0,Job Security,Agro Chemicals,Ankleshwar
+282,Quest,3.5,3400.0,23100.0,272.0,Promotions,IT Services & Consulting,Bengaluru
+283,Dilip,3.9,3400.0,8100.0,5.0,Salary,Engineering & Construction,Bhopal
+284,Suzlon,4.0,3400.0,8200.0,23.0,Job Security,Power,Pune
+285,Varroc,3.7,3400.0,10000.0,50.0,Promotions,Auto Components,Pune
+286,Ambuja,3.9,3400.0,9000.0,28.0,Promotions,Building Material,Ahmedabad
+287,DS,4.0,3400.0,8000.0,54.0,Work Life Balance,FMCG,Noida
+288,Afcons,4.2,3400.0,9000.0,51.0,Skill Development,Engineering & Construction,Mumbai
+289,S,3.9,3400.0,21800.0,60.0,Work Life Balance,Analytics & KPO,Hyderabad
+290,Societe,3.6,3400.0,23900.0,9.0,Work Life Balance,IT Services & Consulting,Bengaluru
+291,Walmart,3.5,3400.0,25500.0,208.0,Promotions,Retail,Bengaluru
+292,Torrent,4.0,3400.0,10800.0,20.0,Job Security,Pharma,Ahmedabad
+293,Eternal,3.5,3400.0,15700.0,27.0,Job Security,Internet,Gurugram
+294,Exl,3.5,3300.0,20300.0,1.0,Job Security,Logistics,New Delhi
+295,Indus,3.6,3300.0,9900.0,65.0,Promotions,Telecom,Gurugram
+296,Allcargo,3.8,3300.0,6900.0,14.0,Work Life Balance,Logistics,Mumbai
+297,VVDN,3.6,3300.0,14800.0,26.0,Promotions,IT Services & Consulting,Gurugram
+298,Yazaki,3.8,3300.0,9800.0,41.0,Job Security,Auto Components,Pune
+299,Tata,3.4,3300.0,25100.0,86.0,Salary,IT Services & Consulting,Bengaluru
+300,Shree,3.7,3300.0,10700.0,20.0,Promotions,Building Material,Beawar
+301,Foxconn,3.8,3300.0,13400.0,21.0,Job Security,Electronics Manufacturing,Chennai
+302,I,3.8,3300.0,5600.0,3.0,Work Life Balance,Recruitment,Mumbai
+303,Zensar,3.6,3300.0,26100.0,264.0,Promotions,IT Services & Consulting,Pune
+304,Physicswallah,3.6,3300.0,10800.0,301.0,Promotions,EdTech,Noida
+305,IKS,3.4,3200.0,12000.0,21.0,Promotions,BPO,Mumbai
+306,HDFC,3.9,3200.0,8500.0,38.0,Skill Development,Financial Services,Mumbai
+307,Fujitsu,3.7,3200.0,18100.0,65.0,Work Life Balance,IT Services & Consulting,Pune
+308,ACC,3.9,3200.0,9400.0,0.0,Promotions,Building Material,Mumbai
+309,Square,3.5,3200.0,9900.0,51.0,Job Security,Internet,Gurugram
+310,Nokia,4.0,3200.0,18000.0,15.0,Work Life Balance,Telecom,Bengaluru
+311,Shoppers,3.9,3100.0,7100.0,49.0,Company Culture,Retail,Mumbai
+312,Marpu,4.9,3100.0,61.0,0.0,Company Culture,Non-Profit,Hyderabad
+313,CMS,3.0,3100.0,9000.0,70.0,Promotions,IT Services & Consulting,Mumbai
+314,Star,3.5,3100.0,11100.0,37.0,Promotions,Insurance,Chennai
+315,Apollo,4.0,3100.0,10300.0,26.0,Company Culture,Auto Components,Chennai
+316,Britannia,4.0,3100.0,8900.0,42.0,Job Security,Hospitality,Pune
+317,Blue,4.0,3100.0,7200.0,7.0,Job Security,Logistics,Mumbai
+318,Landmark,3.8,3100.0,10100.0,8.0,Job Security,Retail,Bengaluru
+319,Future,4.2,3100.0,5900.0,0.0,Skill Development,Retail,Mumbai
+320,Fiserv,2.7,3100.0,17500.0,8.0,Promotions,FinTech,Pune
+321,SRF,4.1,3100.0,9700.0,14.0,Job Security,Chemicals,Bharuch
+322,Dalmia,3.9,3100.0,209.0,87.0,Job Security,Building Material,New Delhi
+323,Kansai,3.8,3100.0,8500.0,63.0,Promotions,Chemicals,Mumbai
+324,Tata,3.7,3000.0,13900.0,8.0,Job Security,Defence & Aerospace,Bengaluru
+325,Nestl,3.7,3000.0,10800.0,22.0,Salary,FMCG,Gurugram
+326,ZS,3.0,3000.0,23200.0,81.0,Work Life Balance,Management Consulting,Pune
+327,Exide,3.4,3000.0,9000.0,59.0,Promotions,Electrical Equipment,Kolkata
+328,Blue,4.0,3000.0,10400.0,309.0,Company Culture,Consumer Electronics & Appliances,Mumbai
+329,Care,3.5,2900.0,9600.0,35.0,Promotions,Insurance,Gurugram
+330,G,4.0,2900.0,5300.0,163.0,Work Life Balance,Law Enforcement & Security,Gurugram
+331,Gallagher,3.6,2900.0,15400.0,23.0,Work Life Balance,Insurance,Bengaluru
+332,Ajanta,3.9,2900.0,9200.0,23.0,Job Security,Pharma,Mumbai
+333,TVS,3.8,2900.0,8800.0,14.0,Job Security,Logistics,Chennai
+334,Photon,4.1,2900.0,7900.0,665.0,Skill Development,IT Services & Consulting,Chennai
+335,Movate,3.1,2900.0,15900.0,175.0,Promotions,IT Services & Consulting,Chennai
+336,Micro,3.6,2900.0,10100.0,10.0,Job Security,Pharma,Bengaluru
+337,ACT,4.0,2900.0,8000.0,220.0,Company Culture,Telecom,Hyderabad
+339,Shell,3.8,2900.0,14500.0,28.0,Work Life Balance,Oil & Gas,Bengaluru
+340,KFintech,3.3,2900.0,11300.0,28.0,Promotions,Financial Services,Hyderabad
+341,Voltas,4.0,2900.0,9000.0,34.0,Job Security,Consumer Electronics & Appliances,Mumbai
+342,Flex,3.9,2900.0,15200.0,59.0,Company Culture,Electronics Manufacturing,Chennai
+343,IntouchCX,2.7,2900.0,11100.0,99.0,Promotions,BPO,Hyderabad
+344,ElasticRun,3.6,2900.0,6900.0,10.0,Job Security,Logistics,Pune
+345,KPMG,3.5,2900.0,24600.0,34.0,Promotions,Management Consulting,Bengaluru
+346,Adani,3.8,2900.0,10600.0,0.0,Promotions,Power,Mundra
+347,Sonalika,3.5,2900.0,9500.0,1.0,Promotions,Automobile,Hoshiarpur
+348,Himalaya,3.9,2900.0,6300.0,151.0,Work Life Balance,Pharma,Bengaluru
+349,NoBroker,3.0,2900.0,11600.0,586.0,Work Satisfaction,Internet,Bengaluru
+350,TaskUs,2.9,2800.0,11100.0,176.0,Job Security,BPO,Indore
+351,Laurus,4.3,2800.0,7700.0,5.0,Job Security,Pharma,Visakhapatnam
+352,Fortis,4.0,2800.0,8000.0,1800.0,Job Security,Healthcare,New Delhi
+353,BlackBuck,3.7,2800.0,6500.0,14.0,Job Security,Internet,Bengaluru
+354,UnitedHealth,4.0,2800.0,12600.0,0.0,Job Security,Healthcare,Hyderabad
+355,DBS,3.7,2800.0,13700.0,40.0,Salary,Banking,Hyderabad
+356,GAO,4.3,2800.0,270.0,0.0,Skill Development,Electrical Equipment,New York
+357,Foundever,3.3,2800.0,9700.0,93.0,Promotions,BPO,Hyderabad
+358,CorroHealth,3.5,2800.0,8600.0,219.0,Salary,Analytics & KPO,Hyderabad
+359,V,4.0,2800.0,4600.0,14.0,Skill Development,Retail,Gurugram
+360,JCB,3.8,2800.0,10300.0,1.0,Work Life Balance,Industrial Machinery,Pune
+361,Capita,3.5,2800.0,12100.0,20.0,Promotions,BPO,Pune
+362,BT,3.8,2800.0,12500.0,17.0,Work Life Balance,Telecom,Gurugram
+363,Domino,3.9,2800.0,4500.0,0.0,Skill Development,Hospitality,New Delhi
+364,Adani,3.8,2800.0,12100.0,708.0,Salary,Power,Ahmedabad
+365,Torrent,4.3,2800.0,8100.0,78.0,Job Security,Power,Ahmedabad
+366,Hero,3.9,2700.0,6100.0,30.0,Work Life Balance,NBFC,New Delhi
+367,Cadila,3.0,2700.0,8600.0,52.0,Job Security,Pharma,Ahmedabad
+368,Northern,3.6,2700.0,18000.0,128.0,Promotions,Financial Services,Bengaluru
+369,ICICI,3.9,2700.0,10000.0,72.0,Work Life Balance,Financial Services,Mumbai
+370,Whitehat,3.3,2700.0,7800.0,0.0,Job Security,EdTech,Mumbai
+371,Alldigi,3.7,2700.0,7700.0,6.0,Promotions,BPO,Chennai
+372,Emcure,3.6,2700.0,9000.0,91.0,Promotions,Pharma,Pune
+373,Tractors,3.9,2700.0,8600.0,35.0,Work Life Balance,Industrial Machinery,Chennai
+374,Parle,3.9,2700.0,7000.0,8.0,Job Security,Beverage,Mumbai
+375,Sahrudaya,4.2,2700.0,3800.0,23.0,Skill Development,Healthcare,Hyderabad
+376,Bajaj,3.9,2700.0,7300.0,37.0,Work Life Balance,Consumer Electronics & Appliances,Mumbai
+377,Sterlite,3.8,2700.0,9900.0,128.0,Work Life Balance,Hardware & Networking,Chhatrapati Sambhajinagar
+378,Biocon,4.0,2700.0,11600.0,41.0,Work Life Balance,Biotechnology,Bengaluru
+379,RMSI,3.6,2600.0,9300.0,12.0,Promotions,IT Services & Consulting,Hyderabad
+380,Mahindra,3.5,2600.0,6200.0,75.0,Promotions,Hospitality,Mumbai
+381,Team,3.7,2600.0,9200.0,209.0,Promotions,IT Services & Consulting,New Delhi
+382,Mahindra,4.0,2600.0,5000.0,7.0,Work Life Balance,NBFC,Mumbai
+383,Newgen,4.1,2600.0,11900.0,23.0,Job Security,IT Services & Consulting,Noida
+384,Bureau,3.8,2600.0,8800.0,37.0,Work Life Balance,Other,Mumbai
+385,Syngene,3.6,2600.0,13000.0,4.0,Promotions,Clinical Research,Bengaluru
+386,Aavas,3.9,2600.0,6000.0,63.0,Skill Development,NBFC,Jaipur
+387,Intellect,3.4,2600.0,14500.0,22.0,Promotions,Software Product,Chennai
+388,SBI,3.6,2600.0,6800.0,102.0,Promotions,Financial Services,Mumbai
+389,McDonald,3.8,2600.0,5200.0,1.0,Skill Development,Hospitality,New Delhi
+390,Planet,3.7,2600.0,4000.0,63.0,Skill Development,EdTech,Gurugram
+391,Datamatics,3.3,2600.0,11800.0,96.0,Promotions,IT Services & Consulting,Mumbai
+392,Taj,4.2,2600.0,5100.0,0.0,Job Security,Hospitality,Mumbai
+393,TCE,3.9,2600.0,10800.0,65.0,Job Security,Engineering & Construction,Mumbai
+394,Star,3.7,2600.0,5500.0,28.0,Promotions,Insurance,Mumbai
+395,Delhi,3.7,2600.0,5300.0,216.0,Promotions,Education & Training,New Delhi
+396,GVK,3.5,2600.0,4900.0,70.0,Promotions,Non-Profit,Lucknow
+397,Cholamandalam,3.6,2600.0,5900.0,0.0,Promotions,Insurance,Chennai
+398,Daikin,4.1,2600.0,8500.0,24.0,Job Security,Consumer Electronics & Appliances,Neemrana
+399,Lodha,4.2,2600.0,9400.0,130.0,Company Culture,Real Estate,Mumbai
+400,Infotech,3.5,2600.0,10700.0,74.0,Promotions,IT Services & Consulting,Mumbai
+401,Patanjali,3.9,2500.0,5800.0,0.0,Work Life Balance,FMCG,Haridwar
+402,Paras,4.0,2500.0,3400.0,97.0,Work Life Balance,Healthcare,Patna
+403,Straive,3.3,2500.0,11200.0,86.0,Promotions,IT Services & Consulting,Chennai
+404,Bharat,4.2,2500.0,7900.0,2.0,Skill Development,Oil & Gas,Mumbai
+405,Manipal,4.1,2500.0,7800.0,59.0,Job Security,Healthcare,Bengaluru
+406,Kia,3.9,2500.0,8700.0,102.0,Job Security,Automobile,Anantapur
+407,Info,3.8,2500.0,11600.0,388.0,Job Security,Internet,Noida
+408,BNP,3.6,2500.0,20200.0,24.0,Job Security,Banking,Mumbai
+409,Endurance,3.9,2500.0,8200.0,30.0,Job Security,Auto Components,Chhatrapati Sambhajinagar
+410,JK,3.9,2500.0,7100.0,13.0,Promotions,Auto Components,Chennai
+411,Apollo,3.7,2500.0,7800.0,1100.0,Job Security,Pharma,Hyderabad
+412,SBI,3.5,2500.0,7100.0,35.0,Promotions,Insurance,Mumbai
+413,Panasonic,3.9,2500.0,7500.0,30.0,Work Life Balance,Consumer Electronics & Appliances,Mumbai
+414,Sobha,3.8,2500.0,8600.0,78.0,Job Security,Real Estate,Bengaluru
+415,Akums,4.2,2500.0,6500.0,26.0,Job Security,Pharma,Haridwar
+416,Sopra,3.9,2500.0,14400.0,111.0,Work Life Balance,IT Services & Consulting,Noida
+417,Bharti,3.6,2500.0,5500.0,816.0,Job Security,Insurance,Mumbai
+418,AWL,4.1,2500.0,7300.0,8.0,Job Security,FMCG,Ahmedabad
+419,Radisson,4.0,2500.0,5400.0,389.0,Job Security,Hospitality,New Delhi
+420,Cybage,3.7,2500.0,16800.0,25.0,Company Culture,IT Services & Consulting,Pune
+421,Axis,3.7,2500.0,4600.0,39.0,Promotions,Financial Services,Mumbai
+422,Eureka,3.6,2500.0,5800.0,4.0,Promotions,Consumer Electronics & Appliances,Mumbai
+423,Capgemini,3.3,2400.0,12400.0,0.0,Promotions,IT Services & Consulting,Bengaluru
+424,Myntra,3.8,2400.0,11000.0,19.0,Company Culture,Internet,Bengaluru
+425,Renault,3.5,2400.0,15500.0,39.0,Promotions,Automobile,Chennai
+426,Xoriant,3.9,2400.0,11700.0,77.0,Work Life Balance,IT Services & Consulting,Pune
+427,Lifestyle,4.1,2400.0,6700.0,19.0,Work Life Balance,Retail,Bengaluru
+428,KocharTech,3.6,2400.0,3700.0,18.0,Promotions,IT Services & Consulting,Kolkata
+429,Statestreet,3.4,2400.0,11400.0,0.0,Promotions,BPO,Chennai
+430,Bank,3.7,2400.0,7500.0,0.0,Job Security,Banking,Mumbai
+431,Aditya,4.1,2400.0,9900.0,0.0,Job Security,Metals & Mining,Mumbai
+432,Infinite,3.2,2400.0,16800.0,211.0,Promotions,IT Services & Consulting,Bengaluru
+433,Indian,4.2,2400.0,3700.0,22.0,Job Security,Railways,Kolkata
+434,Meesho,3.7,2400.0,10500.0,32.0,Salary,Internet,Bengaluru
+435,Unacademy,3.0,2400.0,10400.0,17.0,Job Security,EdTech,Bengaluru
+436,Cisco,4.1,2400.0,19900.0,525.0,Work Life Balance,Hardware & Networking,Bengaluru
+437,Maruti,4.3,2400.0,7100.0,17.0,Salary,Automobile,Ahmedabad
+438,Coromandel,4.0,2400.0,8100.0,29.0,Job Security,Agro Chemicals,Visakhapatnam
+439,Power,3.8,2400.0,7100.0,9.0,Job Security,Engineering & Construction,Hyderabad
+440,Sify,3.6,2400.0,10300.0,42.0,Promotions,IT Services & Consulting,Chennai
+441,Whirlpool,4.0,2400.0,8100.0,19.0,Work Life Balance,Consumer Electronics & Appliances,Pune
+442,Spark,3.8,2400.0,7800.0,13.0,Promotions,Auto Components,Pune
+443,FirstCry,3.6,2400.0,9300.0,2.0,Promotions,Retail,Pune
+444,Nuvoco,4.1,2400.0,7500.0,28.0,Job Security,Building Material,Kolkata
+445,Poonawalla,3.5,2400.0,6500.0,3.0,Salary,NBFC,Pune
+446,Shahi,3.9,2400.0,6900.0,59.0,Job Security,Fashion & Textile,Bengaluru
+447,Mercedes,3.5,2400.0,18800.0,0.0,Work Life Balance,IT Services & Consulting,Bengaluru
+448,Allstate,3.7,2400.0,12500.0,22.0,Work Life Balance,Insurance,Pune
+449,Saint,3.8,2300.0,12500.0,117.0,Job Security,Building Material,Mumbai
+450,ValueLabs,3.4,2300.0,16800.0,155.0,Promotions,IT Services & Consulting,Hyderabad
+451,Life,4.4,2300.0,4900.0,1.0,Company Culture,Insurance,Mumbai
+452,Shadowfax,3.5,2300.0,8300.0,95.0,Promotions,Logistics,Bengaluru
+453,Jio,3.4,2300.0,16000.0,0.0,Job Security,IT Services & Consulting,Mumbai
+454,CAMS,3.5,2300.0,9400.0,6.0,Job Security,Financial Services,Chennai
+455,Brakes,3.8,2300.0,7400.0,37.0,Job Security,Auto Components,Chennai
+456,BHEL,4.2,2300.0,5400.0,53.0,Job Security,Electrical Equipment,Bengaluru
+457,GlaxoSmithKline,4.1,2300.0,6000.0,31.0,Work Life Balance,Pharma,Bengaluru
+458,Lava,3.9,2300.0,4400.0,6.0,Company Culture,Consumer Electronics & Appliances,Noida
+459,Henry,4.0,2300.0,1000.0,48.0,Work Life Balance,EdTech,Noida
+460,NTT,4.0,2300.0,14100.0,356.0,Work Life Balance,IT Services & Consulting,Bengaluru
+461,Cargill,3.9,2300.0,8900.0,102.0,Company Culture,Food Processing,Bengaluru
+462,CitiusTech,3.1,2300.0,15300.0,36.0,Promotions,IT Services & Consulting,Mumbai
+463,Kotak,3.4,2300.0,9700.0,74.0,Promotions,Financial Services,Mumbai
+464,Force,3.7,2300.0,8500.0,33.0,Promotions,Automobile,Pune
+465,EPAM,3.7,2300.0,26500.0,634.0,Skill Development,IT Services & Consulting,Hyderabad
+466,IndusInd,3.6,2300.0,7400.0,12.0,Promotions,Insurance,Mumbai
+467,Trent,3.8,2300.0,5500.0,26.0,Job Security,Retail,Mumbai
+468,Microsoft,3.7,2300.0,33900.0,0.0,Work Life Balance,Software Product,Bengaluru
+469,ITC,4.1,2300.0,5700.0,0.0,Job Security,Hospitality,Bengaluru
+470,upGrad,3.3,2300.0,9700.0,27.0,Job Security,EdTech,Bengaluru
+471,Aditya,3.7,2300.0,7600.0,0.0,Promotions,Insurance,Mumbai
+472,SGS,3.8,2300.0,6800.0,112.0,Promotions,Engineering & Construction,Mumbai
+473,Provana,4.0,2300.0,4900.0,11.0,Company Culture,BPO,Noida
+474,K,3.7,2300.0,5500.0,270.0,Promotions,EdTech,Bengaluru
+475,Biological,4.3,2300.0,7300.0,25.0,Job Security,Pharma,Hyderabad
+476,TELUS,3.5,2300.0,11500.0,24.0,Promotions,IT Services & Consulting,Noida
+477,Nokia,4.1,2300.0,10200.0,1.0,Work Life Balance,Hardware & Networking,Bengaluru
+478,Narayana,4.0,2300.0,6500.0,93.0,Job Security,Healthcare,Bengaluru
+479,Aye,4.1,2200.0,4100.0,123.0,Salary,NBFC,Gurugram
+480,Tekwissen,4.9,2200.0,651.0,295.0,Company Culture,IT Services & Consulting,Visakhapatnam
+481,Pfizer,3.9,2200.0,5900.0,102.0,Work Life Balance,Pharma,Visakhapatnam
+482,Haier,3.9,2200.0,7500.0,40.0,Skill Development,Consumer Electronics & Appliances,Pune
+483,Reliance,4.1,2200.0,3900.0,0.0,Job Security,Retail,Bengaluru
+484,Morgan,3.5,2200.0,29100.0,66.0,Promotions,Financial Services,Mumbai
+485,Delphi,3.8,2200.0,5500.0,2.0,Skill Development,Auto Components,Chennai
+486,Rungta,3.9,2200.0,6700.0,2.0,Salary,Metals & Mining,Chaibasa
+487,CMS,3.5,2200.0,5100.0,23.0,Promotions,Software Product,Mumbai
+488,Globiva,3.0,2200.0,5700.0,243.0,Promotions,BPO,Gurugram
+489,Hinduja,4.2,2200.0,3400.0,7.0,Work Life Balance,NBFC,Chennai
+490,Godrej,3.6,2200.0,10200.0,1.0,Salary,Real Estate,Mumbai
+491,Motherson,3.8,2200.0,8000.0,14.0,Job Security,Auto Components,Chennai
+492,Raymond,4.2,2200.0,6100.0,26.0,Work Life Balance,Fashion & Textile,Mumbai
+493,Microland,3.6,2200.0,10700.0,717.0,Promotions,IT Services & Consulting,Bengaluru
+494,YASH,3.6,2200.0,16400.0,379.0,Promotions,IT Services & Consulting,Hyderabad
+495,AECOM,4.2,2200.0,7400.0,444.0,Work Life Balance,Engineering & Construction,Gurugram
+496,IDBI,3.3,2200.0,6400.0,0.0,Promotions,Banking,Mumbai
+497,Orchids,4.0,2200.0,4000.0,19.0,Skill Development,Education & Training,Bengaluru
+498,Schindler,3.9,2200.0,6400.0,38.0,Skill Development,Industrial Machinery,Pune
+499,Simplex,3.4,2200.0,4200.0,0.0,Promotions,Engineering & Construction,Kolkata
+500,Dr,4.2,2200.0,4700.0,140.0,Job Security,Healthcare,New Delhi
+501,CSB,3.2,2200.0,7500.0,2600.0,Work Satisfaction,Banking,Mumbai
+502,Trident,3.4,2100.0,5700.0,10.0,Salary,Hospitality,Barnala
+503,Spinny,3.6,2200.0,8300.0,95.0,Promotions,Automobile,Gurugram
+504,V,4.2,2100.0,4900.0,41.0,Company Culture,Electrical Equipment,Kochi
+505,NTPC,4.2,2100.0,4800.0,0.0,Company Culture,Power,New Delhi
+506,Tata,3.9,2100.0,8100.0,20.0,Job Security,Power,Mumbai
+507,Aadhar,4.0,2100.0,5400.0,21.0,Company Culture,NBFC,Mumbai
+508,ICICI,3.8,2100.0,6100.0,14.0,Salary,Financial Services,Mumbai
+509,Honeywell,3.8,2100.0,13000.0,0.0,Promotions,Industrial Automation,Pune
+510,Novartis,4.1,2100.0,10800.0,4.0,Work Life Balance,Pharma,Hyderabad
+511,Uflex,3.8,2100.0,7000.0,71.0,Job Security,Packaging,Noida
+512,Huawei,4.1,2100.0,7500.0,34.0,Salary,Telecom,Bengaluru
+513,Capri,3.7,2100.0,4700.0,20.0,Promotions,NBFC,New Delhi
+514,Adecco,3.9,2100.0,7900.0,3.0,Work Life Balance,Recruitment,Bengaluru
+515,R,3.6,2100.0,10200.0,14.0,Job Security,Marketing & Advertising,Chennai
+516,Paisabazaar,3.4,2100.0,7100.0,41.0,Job Security,Internet,Gurugram
+517,Extramarks,3.2,2100.0,7100.0,14.0,Job Security,EdTech,Noida
+518,Ola,3.2,2100.0,8800.0,0.0,Job Security,Internet,Bengaluru
+519,L,3.8,2100.0,8500.0,0.0,Job Security,Engineering & Construction,Vadodara
+520,Jindal,4.1,2100.0,7200.0,47.0,Job Security,Iron & Steel,Mundra
+521,DHL,4.1,2100.0,6600.0,19.0,Job Security,Logistics,Mumbai
+522,G,4.1,2100.0,5600.0,28.0,Salary,Engineering & Construction,Gurugram
+523,SAP,4.1,2100.0,18700.0,0.0,Work Life Balance,Software Product,Bengaluru
+524,Philips,3.8,2100.0,11600.0,85.0,Work Life Balance,Medical Equipment,Bengaluru
+525,Senco,4.3,2100.0,1600.0,3.0,Job Security,Jewellery,Kolkata
+526,CNH,3.7,2100.0,6500.0,11.0,Work Life Balance,Industrial Machinery,Gurugram
+527,Gabriel,4.0,2100.0,5900.0,14.0,Job Security,Auto Components,Pune
+528,Crisil,3.5,2100.0,14100.0,695.0,Promotions,Analytics & KPO,Mumbai
+529,Iris,3.8,2100.0,8500.0,483.0,Work Life Balance,IT Services & Consulting,Noida
+530,HTC,3.4,2100.0,13800.0,14.0,Promotions,IT Services & Consulting,Chennai
+531,Safexpress,3.9,2100.0,6100.0,1.0,Job Security,Logistics,New Delhi
+532,NeoSOFT,3.0,2100.0,11300.0,22.0,Job Security,IT Services & Consulting,Mumbai
+533,NCR,3.4,2100.0,9600.0,41.0,Promotions,IT Services & Consulting,Hyderabad
+534,Parle,3.9,2100.0,4000.0,18.0,Salary,FMCG,Mumbai
+535,Infinx,3.7,2100.0,5700.0,75.0,Promotions,Software Product,Hyderabad
+536,Hindustan,4.2,2100.0,4600.0,15.0,Work Life Balance,Defence & Aerospace,Bengaluru
+537,HSBC,4.0,2100.0,8200.0,0.0,Work Life Balance,IT Services & Consulting,Bengaluru
+538,Sammaan,3.7,2100.0,4700.0,25.0,Promotions,NBFC,Gurugram
+539,Medi,3.4,2100.0,7800.0,42.0,Promotions,Insurance,Bengaluru
+540,Thomson,3.6,2100.0,11000.0,119.0,Work Life Balance,Software Product,Bengaluru
+541,PI,3.8,2100.0,7300.0,13.0,Salary,Agro Chemicals,Vadodara
+542,Polycab,4.1,2100.0,7600.0,77.0,Work Life Balance,Electrical Equipment,Vadodara
+543,Ninjacart,3.8,2100.0,4800.0,46.0,Salary,Internet,Bengaluru
+544,Lucas,3.8,2100.0,6300.0,14.0,Job Security,Auto Components,Chennai
+545,Haldiram,3.8,2000.0,6500.0,0.0,Promotions,FMCG,Nagpur
+546,Angel,3.5,2000.0,7900.0,51.0,Promotions,FinTech,Mumbai
+548,Fusion,3.2,2000.0,4800.0,31.0,Promotions,BPO,Kolkata
+549,Verizon,3.4,2000.0,12500.0,0.0,Salary,Telecom,Hyderabad
+550,Digit,3.5,2000.0,6800.0,4.0,Promotions,Insurance,Bengaluru
+551,Adani,3.9,2000.0,6500.0,1.0,Skill Development,Power,Ahmedabad
+552,Aragen,4.0,2000.0,6700.0,10.0,Job Security,Clinical Research,Hyderabad
+553,Infra,3.8,2000.0,4100.0,0.0,Salary,Building Material,Mumbai
+554,Hindustan,4.2,2000.0,6400.0,0.0,Company Culture,Oil & Gas,Mumbai
+555,IIFL,3.7,2000.0,3500.0,1.0,Promotions,NBFC,Bengaluru
+556,TVS,3.6,2000.0,6800.0,16.0,Promotions,Auto Components,Chennai
+557,Google,4.4,2000.0,38800.0,22.0,Company Culture,Software Product,Bengaluru
+558,Honda,4.3,2000.0,6400.0,0.0,Work Life Balance,Automobile,Bhiwadi
+559,Annapurna,3.8,2000.0,4100.0,3.0,Salary,NBFC,Bhubaneswar
+560,AXA,3.6,2000.0,7400.0,41.0,Work Life Balance,Insurance,Pune
+561,State,3.7,2000.0,5900.0,8.0,Promotions,Financial Services,Pune
+562,Air,3.4,2000.0,8700.0,45.0,Promotions,Aviation,New Delhi
+563,DIVI,3.6,2000.0,6900.0,0.0,Salary,Pharma,Visakhapatnam
+564,Pine,3.2,2000.0,8200.0,11.0,Promotions,FinTech,Noida
+565,Isgec,3.8,2000.0,7400.0,65.0,Job Security,Engineering & Construction,Noida
+566,First,3.6,2000.0,9600.0,61.0,Promotions,Insurance,Bengaluru
+567,Tata,3.6,2000.0,4600.0,96.0,Promotions,Telecom,Mumbai
+568,NielsenIQ,3.5,2000.0,12300.0,25.0,Promotions,Analytics & KPO,Chennai
+569,KENT,3.7,1900.0,4400.0,9.0,Work Life Balance,Consumer Electronics & Appliances,Noida
+570,Security,4.1,1900.0,4700.0,28.0,Company Culture,Law Enforcement & Security,New Delhi
+571,LivSpace,3.3,1900.0,8700.0,212.0,Promotions,Architecture & Interior Design,Bengaluru
+572,Innovsource,3.8,1900.0,4800.0,1.0,Work Life Balance,Recruitment,Mumbai
+573,Hitachi,4.1,1900.0,6900.0,0.0,Company Culture,Auto Components,Neemrana
+574,AkzoNobel,4.1,1900.0,4700.0,27.0,Company Culture,Chemicals,Pune
+575,Granules,3.8,1900.0,6600.0,10.0,Salary,Pharma,Hyderabad
+576,USHA,4.0,1900.0,5000.0,20.0,Work Life Balance,Consumer Electronics & Appliances,Gurugram
+577,Tata,3.6,1900.0,7800.0,215.0,Promotions,Internet,Gurugram
+578,MetLife,3.9,1900.0,10000.0,75.0,Work Life Balance,Insurance,Noida
+579,Reckitt,3.8,1900.0,6500.0,60.0,Salary,FMCG,Gurugram
+580,USV,4.0,1900.0,6000.0,28.0,Company Culture,Pharma,Mumbai
+581,XBP,3.2,1900.0,7700.0,54.0,Promotions,Internet,Chennai
+582,Bata,3.6,1900.0,4200.0,5.0,Promotions,Fashion & Textile,Gurugram
+583,Medanta,4.0,1900.0,5400.0,66.0,Job Security,Healthcare,Gurugram
+584,Sterling,4.1,1900.0,6600.0,27.0,Company Culture,Engineering & Construction,Mumbai
+585,TTEC,3.5,1900.0,5700.0,11.0,Promotions,BPO,Ahmedabad
+586,BVG,4.1,1900.0,4200.0,91.0,Work Life Balance,Facility Management Services,Pune
+587,Shriram,3.4,1900.0,5400.0,92.0,Promotions,Insurance,Hyderabad
+588,SS,3.2,1900.0,13500.0,216.0,Promotions,IT Services & Consulting,Mumbai
+589,Mother,4.0,1900.0,5400.0,4.0,Job Security,Hospitality,New Delhi
+590,Cafe,3.7,1900.0,3800.0,8.0,Promotions,Hospitality,Bengaluru
+591,Urban,3.3,1900.0,8000.0,106.0,Job Security,Internet,Gurugram
+592,Suryoday,3.9,1900.0,4900.0,1.0,Company Culture,Banking,Mumbai
+593,Cushman,4.1,1900.0,7000.0,55.0,Work Life Balance,Real Estate,Gurugram
+594,HDFC,3.3,1900.0,6300.0,42.0,Promotions,Financial Services,Mumbai
+595,Kalyan,4.4,1900.0,1800.0,35.0,Salary,Jewellery,Thrissur
+596,Patanjali,3.8,1900.0,4900.0,16.0,Salary,FMCG,Haridwar
+597,ReNew,4.3,1900.0,7100.0,100.0,Job Security,Power,Gurugram
+598,Toyota,4.3,1900.0,5100.0,12.0,Company Culture,Automobile,Bengaluru
+599,Troikaa,4.4,1900.0,4100.0,23.0,Skill Development,Pharma,Ahmedabad
+600,Compass,4.0,1800.0,5900.0,26.0,Company Culture,Hospitality,Bengaluru
+601,Tata,3.7,1800.0,8400.0,0.0,Work Life Balance,Telecom,Pune
+602,Clover,3.3,1800.0,12600.0,196.0,Promotions,IT Services & Consulting,Mumbai
+603,HighRadius,2.4,1800.0,9700.0,101.0,Job Security,Software Product,Hyderabad
+604,Orange,4.0,1800.0,9000.0,41.0,Work Life Balance,IT Services & Consulting,Gurugram
+605,Sysnet,3.5,1800.0,4400.0,27.0,Promotions,IT Services & Consulting,New Delhi
+606,Caterpillar,4.1,1800.0,12200.0,116.0,Company Culture,Industrial Machinery,Chennai
+607,Satin,3.9,1800.0,3300.0,7.0,Salary,NBFC,Gurugram
+608,Metro,3.9,1800.0,5000.0,4.0,Promotions,Retail,Bengaluru
+609,L,3.5,1800.0,6000.0,11.0,Job Security,Auto Components,Coimbatore
+610,FactSet,3.6,1800.0,11100.0,28.0,Work Life Balance,Analytics & KPO,Hyderabad
+611,Health,4.4,1800.0,3000.0,132.0,Company Culture,Healthcare,Bengaluru
+612,BT,3.9,1800.0,9300.0,1.0,Work Life Balance,Telecom,Gurugram
+613,Veritas,4.2,1800.0,2600.0,1.0,Company Culture,NBFC,Chennai
+614,Cavinkare,3.9,1800.0,5100.0,49.0,Salary,FMCG,Chennai
+615,Vedantu,3.2,1800.0,7300.0,24.0,Job Security,EdTech,Bengaluru
+616,KONE,4.1,1800.0,5900.0,34.0,Company Culture,Industrial Machinery,Chennai
+617,CG,3.8,1800.0,7100.0,3.0,Promotions,Electrical Equipment,Bhopal
+618,Indian,4.6,1800.0,3500.0,0.0,Job Security,Defence & Aerospace,Mumbai
+620,Dixon,3.9,1800.0,5900.0,18.0,Skill Development,Electronics Manufacturing,Noida
+621,Vardhman,4.0,1800.0,5400.0,17.0,Job Security,Fashion & Textile,Baddi
+622,SHYAM,3.5,1800.0,5400.0,111.0,Promotions,Metals & Mining,Kolkata
+623,Yamaha,4.0,1800.0,5500.0,0.0,Work Life Balance,Automobile,Chennai
+624,Generali,3.4,1800.0,5600.0,155.0,Promotions,Insurance,Mumbai
+625,Dhani,3.8,1800.0,4000.0,36.0,Job Security,NBFC,Gurugram
+626,Stellar,1.3,1800.0,3.0,0.0,Company Culture,Other,Dubai
+627,IndiaFirst,3.7,1800.0,4300.0,27.0,Salary,Insurance,Mumbai
+628,Procter,4.0,1800.0,6100.0,7.0,Skill Development,FMCG,Mumbai
+629,Arvind,4.0,1800.0,5600.0,30.0,Work Life Balance,Fashion & Textile,Ahmedabad
+630,Kotak,3.9,1800.0,5500.0,0.0,Work Life Balance,NBFC,Mumbai
+631,Future,4.4,1800.0,3400.0,0.0,Company Culture,Retail,Mumbai
+632,Tata,3.6,1700.0,6600.0,2.0,Promotions,FMCG,Bengaluru
+633,DHL,4.1,1700.0,6300.0,0.0,Job Security,Logistics,Mumbai
+634,NEC,4.1,1700.0,5500.0,16.0,Work Life Balance,IT Services & Consulting,Noida
+635,Goldman,3.3,1700.0,21900.0,97.0,Job Security,Financial Services,Bengaluru
+636,Marico,3.8,1700.0,6100.0,41.0,Salary,FMCG,Mumbai
+637,Belrise,3.7,1700.0,6300.0,9.0,Promotions,Auto Components,Pune
+638,iOPEX,3.0,1700.0,6500.0,29.0,Promotions,IT Services & Consulting,Chennai
+639,Muthoot,4.1,1700.0,2900.0,12.0,Work Life Balance,NBFC,Kochi
+640,Matrimony,3.8,1700.0,4500.0,40.0,Promotions,Internet,Chennai
+641,Rane,3.8,1700.0,4700.0,40.0,Job Security,Auto Components,Chennai
+642,Krishna,3.9,1700.0,5400.0,2.0,Job Security,Auto Components,Gurugram
+643,Godrej,3.9,1700.0,3300.0,0.0,Job Security,Real Estate,Mumbai
+644,CMA,4.0,1700.0,7900.0,24.0,Job Security,Ports & Shipping,Chennai
+645,Relaxo,4.0,1700.0,4800.0,27.0,Work Life Balance,Fashion & Textile,New Delhi
+646,Supreme,4.0,1700.0,6200.0,2.0,Job Security,Petrochemicals,Gwalior
+647,Sanofi,4.0,1700.0,6300.0,17.0,Work Life Balance,Pharma,Hyderabad
+648,MagicBricks,3.8,1700.0,4800.0,19.0,Salary,Internet,Noida
+649,Coronis,3.8,1700.0,5900.0,1.0,Company Culture,BPO,Chennai
+650,Asahi,3.8,1700.0,5700.0,3.0,Job Security,Auto Components,Chennai
+651,Teva,3.9,1700.0,6000.0,0.0,Work Life Balance,Pharma,Bengaluru
+652,Welspun,3.9,1700.0,5300.0,0.0,Skill Development,Fashion & Textile,Anjar
+653,Lumax,3.9,1700.0,6000.0,40.0,Job Security,Auto Components,Pune
+654,JSW,4.0,1700.0,4700.0,0.0,Skill Development,Iron & Steel,Jharsuguda
+655,Chegg,4.2,1700.0,3900.0,14.0,Work Life Balance,EdTech,New Delhi
+656,Wipro,3.7,1700.0,8600.0,0.0,Promotions,FMCG,Bengaluru
+657,Marriott,4.1,1700.0,4800.0,2300.0,Job Security,Hospitality,Bengaluru
+658,Johnson,3.9,1700.0,6000.0,110.0,Company Culture,Healthcare,Mumbai
+659,IFB,3.5,1700.0,6000.0,23.0,Promotions,Consumer Electronics & Appliances,Bengaluru
+660,Patra,3.4,1700.0,6600.0,0.0,Job Security,BPO,Visakhapatnam
+661,BA,3.8,1700.0,9700.0,0.0,Job Security,IT Services & Consulting,Hyderabad
+662,mPokket,4.4,1700.0,1900.0,9.0,Company Culture,NBFC,Kolkata
+663,Broadridge,3.8,1700.0,11600.0,94.0,Work Life Balance,FinTech,Hyderabad
+664,Emami,3.9,1700.0,5500.0,12.0,Work Life Balance,FMCG,Kolkata
+665,Hero,4.0,1700.0,6400.0,2.0,Work Life Balance,Automobile,Ghaziabad
+666,Amul,4.0,1700.0,4500.0,6.0,Job Security,Hospitality,Ahmedabad
+667,ZF,3.9,1700.0,3900.0,4.0,Promotions,Auto Components,Chennai
+668,Karur,3.5,1700.0,5300.0,63.0,Promotions,Banking,Chennai
+669,KFC,3.9,1700.0,3100.0,1.0,Skill Development,Hospitality,New Delhi
+670,Bisleri,4.2,1700.0,4900.0,17.0,Work Life Balance,Beverage,Mumbai
+671,Tanishq,4.2,1700.0,3200.0,0.0,Skill Development,Jewellery,Kolkata
+672,Canara,3.6,1700.0,4200.0,0.0,Job Security,Banking,Bengaluru
+673,V,3.9,1700.0,4000.0,7.0,Work Life Balance,Recruitment,New Delhi
+674,Airtel,3.8,1700.0,5700.0,49.0,Promotions,Banking,Gurugram
+675,Bajaj,3.5,1700.0,4100.0,112.0,Promotions,Financial Services,New Delhi
+676,Suguna,3.9,1700.0,4300.0,20.0,Company Culture,Food Processing,Coimbatore
+677,HERE,3.7,1700.0,7500.0,13.0,Work Life Balance,IT Services & Consulting,Mumbai
+678,SBFC,3.7,1700.0,3100.0,21.0,Promotions,NBFC,Mumbai
+679,Gujarat,3.9,1700.0,7100.0,6.0,Job Security,Chemicals,Bharuch
+680,Cemindia,4.2,1700.0,3800.0,10.0,Job Security,Engineering & Construction,Kolkata
+681,Piramal,3.9,1700.0,7300.0,45.0,Job Security,Pharma,Mumbai
+682,Tata,4.0,1700.0,4700.0,1.0,Company Culture,Broadcasting,Mumbai
+683,SAI,3.9,1700.0,6400.0,37.0,Salary,Pharma,Hyderabad
+684,Wockhardt,3.8,1700.0,4200.0,32.0,Work Life Balance,Pharma,Chhatrapati Sambhajinagar
+685,Chetu,3.7,1700.0,7300.0,2.0,Skill Development,Software Product,Noida
+686,PNB,3.7,1700.0,5100.0,9.0,Promotions,NBFC,New Delhi
+687,GE,4.1,1700.0,6100.0,6.0,Company Culture,Power,Bengaluru
+688,Fusion,3.9,1700.0,3400.0,1.0,Promotions,NBFC,New Delhi
+689,Steel,3.8,1700.0,5800.0,17.0,Company Culture,Auto Components,Chennai
+690,Mercer,3.7,1600.0,9900.0,0.0,Job Security,Management Consulting,New Delhi
+691,Amneal,4.1,1600.0,6600.0,175.0,Work Life Balance,Pharma,Ahmedabad
+692,Sonata,3.4,1600.0,12200.0,143.0,Promotions,IT Services & Consulting,Bengaluru
+693,Wheelseye,3.5,1600.0,4100.0,13.0,Job Security,Internet,Gurugram
+694,City,2.9,1600.0,6200.0,8.0,Company Culture,Banking,Chennai
+695,Devyani,3.7,1600.0,3700.0,15.0,Promotions,Hospitality,Gurugram
+696,Page,4.1,1600.0,5100.0,3.0,Job Security,Fashion & Textile,Bengaluru
+697,VOIS,3.8,1600.0,9900.0,25.0,Work Life Balance,IT Services & Consulting,Pune
+698,Dainik,4.1,1600.0,4600.0,73.0,Company Culture,Printing & Publishing,Bhopal
+699,Acuity,3.0,1600.0,13500.0,173.0,Promotions,Analytics & KPO,Bengaluru
+700,Heritage,4.1,1600.0,3900.0,56.0,Company Culture,Food Processing,Hyderabad
+701,PharmEasy,3.7,1600.0,6400.0,3.0,Job Security,Internet,Bengaluru
+702,GMR,4.0,1600.0,4900.0,0.0,Job Security,Engineering & Construction,New Delhi
+703,Evalueserve,3.0,1600.0,10700.0,46.0,Promotions,Analytics & KPO,Gurugram
+704,Apco,3.8,1600.0,4400.0,22.0,Salary,Engineering & Construction,Mumbai
+705,MedPlus,3.5,1600.0,4900.0,34.0,Promotions,Retail,Hyderabad
+706,Happiest,3.4,1600.0,13300.0,598.0,Promotions,IT Services & Consulting,Bengaluru
+707,Ashoka,4.2,1600.0,4200.0,7.0,Work Life Balance,Engineering & Construction,Nashik
+708,Honda,4.1,1600.0,3800.0,13.0,Job Security,Automobile,Gurugram
+709,Nayara,4.2,1600.0,6100.0,5.0,Salary,Oil & Gas,Jamnagar
+710,Tesco,3.6,1600.0,9400.0,23.0,Job Security,Retail,Bengaluru
+711,XL,3.7,1600.0,3600.0,23.0,Salary,IT Services & Consulting,Mumbai
+712,QualityKiosk,3.2,1600.0,11900.0,270.0,Promotions,IT Services & Consulting,Mumbai
+713,Jaquar,4.1,1600.0,5300.0,62.0,Job Security,Building Material,Gurugram
+714,Gland,3.9,1600.0,6000.0,14.0,Work Life Balance,Pharma,Hyderabad
+715,Altimetrik,3.5,1600.0,13500.0,241.0,Job Security,IT Services & Consulting,Bengaluru
+716,ALTEN,3.5,1600.0,9100.0,60.0,Promotions,IT Services & Consulting,Bengaluru
+717,Indoco,3.4,1600.0,5800.0,21.0,Promotions,Pharma,Mumbai
+718,Chandigarh,4.1,1600.0,3000.0,72.0,Work Life Balance,Education & Training,Chandigarh
+719,ISS,4.0,1600.0,4300.0,29.0,Work Life Balance,Facility Management Services,Mumbai
+720,Indegene,3.2,1600.0,10300.0,27.0,Promotions,Pharma,Bengaluru
+721,Apexon,3.3,1600.0,9900.0,54.0,Promotions,IT Services & Consulting,Bengaluru
+722,Daimler,3.9,1600.0,6900.0,1.0,Work Life Balance,Automobile,Chennai
+723,Aerial,4.0,1600.0,2500.0,13.0,Work Life Balance,Telecom,Sahibzada Ajit Singh Nagar
+724,Bharat,3.8,1600.0,6600.0,9.0,Promotions,Auto Components,Pune
+725,Oberoi,3.9,1600.0,3800.0,0.0,Job Security,Hospitality,New Delhi
+726,Nykaa,3.4,1600.0,7300.0,25.0,Promotions,Internet,Mumbai
+727,Max,4.0,1600.0,3600.0,6.0,Skill Development,Retail,Bengaluru
+728,Valeo,3.9,1600.0,8400.0,165.0,Work Life Balance,Auto Components,Chennai
+729,SK,3.8,1600.0,4200.0,1.0,Promotions,NBFC,Jaipur
+730,Hyatt,4.0,1600.0,3100.0,307.0,Job Security,Hospitality,New Delhi
+731,Amara,4.0,1600.0,4500.0,0.0,Job Security,Auto Components,Tirupati
+732,Aumovio,3.8,1600.0,9600.0,8.0,Work Life Balance,Auto Components,Bengaluru
+733,Oracle,3.3,1600.0,9700.0,0.0,Promotions,Software Product,Bengaluru
+734,Sansera,4.0,1600.0,5800.0,1.0,Skill Development,Auto Components,Bengaluru
+735,R,3.8,1600.0,7900.0,31.0,Work Life Balance,IT Services & Consulting,Noida
+736,TEKsystems,3.1,1500.0,11900.0,33.0,Promotions,IT Services & Consulting,Bengaluru
+737,JSW,4.0,1500.0,4600.0,18.0,Job Security,Building Material,Mumbai
+738,CIE,3.7,1500.0,5100.0,18.0,Promotions,Auto Components,Pune
+739,EOSGlobe,3.0,1500.0,4100.0,10.0,Promotions,BPO,Mumbai
+740,Rashmi,3.2,1500.0,5100.0,3.0,Company Culture,Iron & Steel,Kharagpur
+741,Aon,3.8,1500.0,6900.0,56.0,Job Security,Management Consulting,Bengaluru
+742,Narayana,3.5,1500.0,4100.0,7.0,Promotions,Education & Training,Hyderabad
+743,Vfs,3.3,1500.0,4600.0,15.0,Promotions,IT Services & Consulting,Mumbai
+744,American,4.0,1500.0,38100.0,4.0,Company Culture,Engineering & Construction,Bengaluru
+745,Morningstar,3.6,1500.0,10800.0,40.0,Work Life Balance,Financial Services,Mumbai
+746,NIIT,3.4,1500.0,6100.0,20.0,Promotions,Education & Training,Gurugram
+747,iMerit,3.3,1500.0,6000.0,11.0,Promotions,IT Services & Consulting,Kolkata
+748,NetAmbit,4.0,1500.0,3200.0,4.0,Salary,BPO,Noida
+749,DCM,4.1,1500.0,5300.0,16.0,Job Security,Chemicals,Bharuch
+750,T,4.0,1500.0,4100.0,36.0,Work Life Balance,"Testing, Inspection and Certification (TIC)",Bengaluru
+751,Sony,4.2,1500.0,4800.0,5.0,Company Culture,Consumer Electronics & Appliances,New Delhi
+752,Grant,3.3,1500.0,12300.0,351.0,Promotions,Accounting & Auditing,Bengaluru
+753,Honeywell,3.7,1500.0,11100.0,0.0,Promotions,Industrial Automation,Bengaluru
+754,Citco,3.1,1500.0,10500.0,157.0,Company Culture,Management Consulting,Hyderabad
+755,Kantar,3.5,1500.0,7000.0,14.0,Promotions,Analytics & KPO,Bengaluru
+756,Xiaomi,3.8,1500.0,5700.0,4.0,Work Life Balance,Consumer Electronics & Appliances,Bengaluru
+757,Incedo,2.9,1500.0,10900.0,48.0,Promotions,IT Services & Consulting,Gurugram
+758,Eaton,3.9,1500.0,8600.0,194.0,Company Culture,Electronics Manufacturing,Pune
+759,CreditAccess,3.9,1500.0,2800.0,18.0,Job Security,NBFC,Bengaluru
+760,Tenarai,3.5,1500.0,11100.0,74.0,Promotions,Emerging Technologies,Bengaluru
+761,Sunknowledge,3.4,1500.0,4100.0,12.0,Job Security,BPO,Kolkata
+762,AB,3.4,1500.0,8000.0,77.0,Promotions,Beverage,Bengaluru
+763,Adobe,3.7,1500.0,14000.0,93.0,Company Culture,Software Product,Bengaluru
+764,HCL,4.1,1500.0,5900.0,0.0,Work Life Balance,IT Services & Consulting,Noida
+765,More,3.6,1500.0,4200.0,22.0,Job Security,Retail,Bengaluru
+766,J,4.1,1500.0,4400.0,2.0,Work Life Balance,Engineering & Construction,Mumbai
+767,Novo,3.6,1500.0,6700.0,1.0,Work Life Balance,Pharma,Bengaluru
+768,Fino,3.7,1500.0,4300.0,6.0,Promotions,Banking,Mumbai
+769,Burger,3.9,1500.0,3600.0,3.0,Skill Development,Hospitality,New Delhi
+770,Bajaj,3.5,1500.0,6100.0,101.0,Work Life Balance,NBFC,Pune
+771,Taurus,3.9,1500.0,1000.0,1.0,Company Culture,BPO,Pune
+772,FedEx,4.0,1500.0,5500.0,51.0,Work Life Balance,Logistics,Mumbai
+773,Amity,3.5,1500.0,5400.0,4.0,Promotions,Education & Training,Noida
+774,AtkinsRealis,3.7,1500.0,6400.0,398.0,Work Life Balance,Engineering & Construction,Bengaluru
+775,Tieto,4.1,1500.0,9200.0,15.0,Work Life Balance,IT Services & Consulting,Pune
+776,The,3.7,1500.0,3600.0,0.0,Job Security,Financial Services,New Delhi
+777,VLCC,3.2,1500.0,3400.0,47.0,Promotions,Beauty & Personal Care,New Delhi
+778,CenturyPly,3.9,1500.0,4800.0,48.0,Salary,Furniture & Furnishing,Kolkata
+779,Worley,4.1,1500.0,7700.0,8.0,Work Life Balance,Engineering & Construction,Mumbai
+781,Unisys,3.4,1500.0,10100.0,48.0,Promotions,IT Services & Consulting,Bengaluru
+782,Slk,3.2,1500.0,9300.0,0.0,Promotions,IT Services & Consulting,Bengaluru
+783,Spandana,3.8,1500.0,2600.0,11.0,Salary,NBFC,Hyderabad
+784,Agilus,4.1,1500.0,3300.0,10.0,Work Life Balance,Healthcare,Mumbai
+785,OM,3.9,1500.0,4300.0,4.0,Job Security,Logistics,New Delhi
+786,Tata,4.2,1500.0,5700.0,0.0,Company Culture,IT Services & Consulting,Mumbai
+787,The,4.0,1500.0,4700.0,11.0,Job Security,Building Material,Chennai
+788,Oracle,3.1,1500.0,10200.0,0.0,Promotions,Software Product,Bengaluru
+789,TE,4.0,1500.0,7800.0,151.0,Company Culture,Electronics Manufacturing,Bengaluru
+790,Iffco,3.8,1500.0,4200.0,0.0,Job Security,Insurance,Gurugram
+791,Centre,3.6,1500.0,7100.0,0.0,Work Life Balance,IT Services & Consulting,Pune
+792,Acmegrade,3.9,1500.0,322.0,0.0,Company Culture,EdTech,Bengaluru
+793,FDC,3.7,1500.0,3800.0,35.0,Promotions,Pharma,Mumbai
+794,Aptara,3.1,1500.0,6400.0,22.0,Promotions,Content Development,Noida
+795,ZF,3.7,1500.0,7700.0,10.0,Promotions,Auto Components,Hyderabad
+796,Astral,4.0,1500.0,4400.0,72.0,Work Life Balance,Building Material,Ahmedabad
+797,Hatsun,3.8,1500.0,5000.0,12.0,Skill Development,Food Processing,Chennai
+798,Decathlon,3.7,1400.0,4400.0,0.0,Skill Development,Retail,Bengaluru
+799,TCS,3.8,1400.0,4200.0,0.0,Job Security,IT Services & Consulting,Chennai
+800,Hire,4.9,1400.0,8.0,0.0,Company Culture,Recruitment,Mumbai
+801,Sharekhan,3.7,1400.0,5300.0,107.0,Promotions,Financial Services,Mumbai
+802,Punjab,3.9,1400.0,3000.0,0.0,Job Security,Banking,New Delhi
+803,Apex,2.6,1400.0,8900.0,515.0,Promotions,Financial Services,Pune
+804,NxtWave,3.3,1500.0,3900.0,155.0,Promotions,EdTech,Hyderabad
+805,Unichem,3.7,1400.0,5300.0,26.0,Job Security,Pharma,Ghaziabad
+806,Paytm,3.8,1400.0,5300.0,0.0,Work Life Balance,Banking,Noida
+807,INDIUM,3.9,1400.0,7500.0,24.0,Work Life Balance,IT Services & Consulting,Chennai
+808,Brillio,3.3,1400.0,11200.0,192.0,Promotions,IT Services & Consulting,Bengaluru
+809,Shubham,4.0,1400.0,2900.0,3.0,Work Life Balance,NBFC,New Delhi
+810,Baroda,3.8,1400.0,3100.0,18.0,Work Life Balance,BPO,Gandhinagar
+811,Aforeserve,3.3,1400.0,3600.0,40.0,Promotions,IT Services & Consulting,Mumbai
+812,Viraj,4.0,1400.0,4500.0,13.0,Skill Development,Iron & Steel,Mumbai
+813,GEP,3.5,1400.0,9700.0,15.0,Company Culture,IT Services & Consulting,Mumbai
+814,Spicejet,3.2,1400.0,5100.0,1.0,Promotions,Aviation,New Delhi
+815,Hindware,3.9,1400.0,4600.0,5.0,Work Life Balance,Building Material,Hyderabad
+816,IDC,3.0,1400.0,6700.0,0.0,Job Security,IT Services & Consulting,Noida
+817,Ion,3.8,1400.0,5600.0,37.0,Work Life Balance,Waste Management,Mumbai
+818,Globant,3.2,1400.0,10900.0,58.0,Promotions,IT Services & Consulting,Pune
+819,Cin,3.8,1400.0,3100.0,0.0,Company Culture,Media & Entertainment,New Delhi
+820,Expleo,3.5,1400.0,10300.0,97.0,Promotions,IT Services & Consulting,Chennai
+821,ICICI,3.9,1400.0,6000.0,0.0,Skill Development,Financial Services,Mumbai
+822,Nippon,4.0,1400.0,4100.0,2.0,Work Life Balance,Chemicals,Chennai
+823,Aarvee,3.7,1400.0,3500.0,0.0,Promotions,Engineering & Construction,Hyderabad
+824,Bharat,3.7,1400.0,5200.0,0.0,Promotions,Electronics Manufacturing,Chennai
+825,Faurecia,3.9,1400.0,5800.0,14.0,Company Culture,Auto Components,Pune
+826,Samsung,2.9,1400.0,10300.0,3.0,Promotions,IT Services & Consulting,Bengaluru
+827,KIMS,3.8,1400.0,4000.0,7.0,Skill Development,Healthcare,Hyderabad
+828,Mondelez,4.2,1400.0,4700.0,65.0,Salary,Food Processing,Mumbai
+829,Luminous,4.0,1400.0,4300.0,32.0,Work Life Balance,Consumer Electronics & Appliances,Gurugram
+830,JioMart,3.9,1400.0,4400.0,0.0,Work Life Balance,Retail,Mumbai
+831,ManpowerGroup,3.6,1400.0,5300.0,198.0,Promotions,Recruitment,Bengaluru
+832,Jakson,4.1,1400.0,4200.0,59.0,Work Life Balance,Power,Noida
+833,T,3.8,1400.0,9200.0,14.0,Work Life Balance,IT Services & Consulting,Pune
+834,GE,4.1,1400.0,7500.0,0.0,Company Culture,Defence & Aerospace,Bengaluru
+835,Pantaloons,3.9,1400.0,3000.0,0.0,Job Security,Retail,Mumbai
+836,Atul,3.9,1400.0,5400.0,3.0,Job Security,Chemicals,Valsad
+837,H,3.9,1400.0,3400.0,13.0,Salary,Engineering & Construction,Jaipur
+838,VIBGYOR,3.5,1400.0,4200.0,208.0,Job Security,Education & Training,Bengaluru
+839,Royal,4.9,1400.0,5.0,0.0,Company Culture,Other,Dubai
+840,DP,3.8,1400.0,5700.0,256.0,Salary,Logistics,Mumbai
+841,Tenneco,3.6,1400.0,5500.0,9.0,Promotions,Auto Components,Pune
+842,AIIMS,4.1,1400.0,4800.0,0.0,Skill Development,Education & Training,New Delhi
+843,Collabera,3.4,1400.0,6900.0,0.0,Promotions,Recruitment,Bengaluru
+844,Bluestock,4.4,1400.0,72.0,0.0,Work Life Balance,FinTech,Pune
+845,Sheenlac,4.1,1400.0,1600.0,2.0,Salary,Chemicals,Chennai
+846,OpenText,3.2,1400.0,12500.0,8.0,Job Security,Software Product,Bengaluru
+847,Fabindia,3.6,1400.0,4100.0,64.0,Job Security,Retail,New Delhi
+848,Birla,4.1,1500.0,3200.0,0.0,Skill Development,Chemicals,Mumbai
+849,Diageo,3.7,1400.0,6600.0,59.0,Work Life Balance,Beverage,Bengaluru
+850,Godrej,4.0,1400.0,5100.0,1.0,Work Life Balance,FMCG,Mumbai
+851,Willis,3.7,1400.0,8300.0,26.0,Work Life Balance,Financial Services,Mumbai
+852,DEXIT,3.4,1400.0,5300.0,2.0,Promotions,IT Services & Consulting,Mumbai
+853,Ahluwalia,4.0,1400.0,3800.0,11.0,Work Life Balance,Engineering & Construction,New Delhi
+854,Vestas,4.1,1400.0,5500.0,9.0,Work Life Balance,Power,Chennai
+855,Intertek,3.8,1400.0,4300.0,76.0,Promotions,"Testing, Inspection and Certification (TIC)",New Delhi
+856,Electronics,4.2,1400.0,3200.0,9.0,Work Life Balance,Electronics Manufacturing,Hyderabad
+857,Arvind,3.9,1400.0,3500.0,59.0,Work Life Balance,Fashion & Textile,Bengaluru
+858,ANZ,3.7,1400.0,8600.0,11.0,Work Life Balance,Banking,Bengaluru
+859,DLF,4.0,1400.0,5200.0,23.0,Salary,Real Estate,Gurugram
+860,Hindustan,4.2,1400.0,3300.0,2.0,Company Culture,Engineering & Construction,Mumbai
+861,Innodata,3.7,1400.0,3500.0,91.0,Work Life Balance,IT Services & Consulting,Noida
+862,Prodapt,3.5,1400.0,10200.0,80.0,Promotions,IT Services & Consulting,Chennai
+863,PNC,3.8,1300.0,3600.0,1.0,Promotions,Engineering & Construction,Agra
+864,Hitachi,4.0,1400.0,3400.0,12.0,Work Life Balance,IT Services & Consulting,Mumbai
+865,Automotive,3.8,1300.0,5200.0,59.0,Promotions,Automobile,Hyderabad
+866,Shriram,4.0,1300.0,4700.0,4.0,Job Security,Auto Components,Bhiwadi
+867,iSON,3.1,1300.0,3300.0,10.0,Promotions,BPO,Bengaluru
+868,Dassault,3.8,1300.0,7700.0,0.0,Work Life Balance,Software Product,Pune
+869,Schaeffler,4.0,1300.0,6200.0,0.0,Work Life Balance,Auto Components,Vadodara
+870,Fresenius,4.0,1300.0,4200.0,10.0,Work Life Balance,Pharma,Pune
+871,Federal,3.6,1300.0,6400.0,5.0,Salary,Banking,Mumbai
+872,Zoho,4.1,1300.0,10800.0,0.0,Job Security,Software Product,Chennai
+873,SKF,4.0,1300.0,4800.0,44.0,Company Culture,Auto Components,Pune
+874,Indostar,4.2,1300.0,2300.0,1.0,Work Life Balance,NBFC,Mumbai
+875,Svatantra,3.9,1300.0,2500.0,17.0,Company Culture,NBFC,Mumbai
+876,Oil,4.4,1400.0,3200.0,0.0,Work Life Balance,Oil & Gas,Mumbai
+877,Kalpataru,4.1,1300.0,4600.0,13.0,Job Security,Real Estate,Mumbai
+878,Zetwerk,4.0,1300.0,4600.0,32.0,Salary,Industrial Machinery,Bengaluru
+879,Big,4.4,1300.0,2000.0,0.0,Company Culture,Retail,New Delhi
+880,Balkrishna,4.0,1300.0,4700.0,0.0,Salary,Auto Components,Bhuj
+881,Colliers,3.8,1300.0,5100.0,65.0,Promotions,Real Estate,Bengaluru
+882,Panasonic,4.0,1300.0,4600.0,10.0,Work Life Balance,Consumer Electronics & Appliances,Gurugram
+883,Nielsen,3.1,1300.0,6900.0,1.0,Promotions,Analytics & KPO,Bengaluru
+884,Meril,3.5,1300.0,5500.0,39.0,Job Security,Medical Equipment,Vapi
+885,Parexel,3.8,1300.0,6200.0,6.0,Company Culture,Clinical Research,Hyderabad
+886,Mu,2.6,1300.0,6800.0,0.0,Job Security,Analytics & KPO,Bengaluru
+887,Kirloskar,4.2,1300.0,4500.0,21.0,Work Life Balance,Industrial Machinery,Pune
+888,JTEKT,4.1,1300.0,4500.0,4.0,Company Culture,Auto Components,Gurugram
+889,Rockman,3.8,1300.0,3900.0,21.0,Job Security,Auto Components,Haridwar
+890,AGS,3.0,1300.0,3700.0,0.0,Promotions,FinTech,Mumbai
+891,Air,3.6,1300.0,2600.0,0.0,Promotions,Aviation,New Delhi
+892,Asirvad,3.8,1300.0,2400.0,3.0,Promotions,NBFC,Chennai
+893,Innova,3.2,1300.0,8500.0,88.0,Promotions,IT Services & Consulting,Hyderabad
+894,Sigma,3.9,1300.0,2800.0,18.0,Company Culture,Industrial Machinery,Pune
+895,Wind,3.9,1300.0,3300.0,0.0,Work Life Balance,Power,Mumbai
+896,DENSO,4.2,1300.0,3900.0,6.0,Job Security,Auto Components,Gurugram
+897,Prism,3.7,1300.0,4600.0,0.0,Promotions,Building Material,Mumbai
+898,Synchrony,4.3,1300.0,5600.0,0.0,Job Security,Financial Services,Hyderabad
+899,Aparna,3.9,1300.0,4300.0,56.0,Job Security,Real Estate,Hyderabad
+900,IIFL,3.8,1300.0,3400.0,701.0,Promotions,NBFC,Gurugram
+901,Dell,3.6,1300.0,7900.0,2.0,Promotions,IT Services & Consulting,Bengaluru
+902,JK,3.7,1300.0,3900.0,1.0,Promotions,Building Material,New Delhi
+903,Sri,3.4,1300.0,3700.0,0.0,Promotions,Education & Training,Bengaluru
+904,Strides,3.9,1300.0,4500.0,0.0,Skill Development,Pharma,Bengaluru
+905,Genius,3.7,1300.0,4200.0,0.0,Promotions,Recruitment,Kolkata
+906,Qualcomm,3.7,1300.0,15900.0,12.0,Salary,Semiconductors,Hyderabad
+907,HFCL,3.8,1300.0,4300.0,6.0,Work Life Balance,Telecom,Hyderabad
+908,Indira,3.9,1300.0,3300.0,78.0,Company Culture,Healthcare,Mumbai
+909,Fidelity,4.1,1300.0,8100.0,0.0,Company Culture,Financial Services,Bengaluru
+910,Imperial,3.7,1300.0,5100.0,11.0,Promotions,Auto Components,Faridabad
+911,Aptiv,3.4,1300.0,9000.0,12.0,Promotions,Auto Components,Bengaluru
+912,Leadec,4.0,1300.0,3600.0,60.0,Work Life Balance,Facility Management Services,Pune
+913,London,3.6,1300.0,11600.0,0.0,Promotions,Financial Services,Bengaluru
+914,V,3.3,1300.0,2800.0,69.0,Job Security,Retail,New Delhi
+915,Fidelity,3.7,1300.0,6300.0,0.0,Job Security,Financial Services,Bengaluru
+916,ACG,3.8,1300.0,4000.0,78.0,Promotions,Pharma,Mumbai
+917,EbixCash,3.4,1300.0,5200.0,1.0,Promotions,Software Product,Noida
+918,ExcelR,3.5,1300.0,1200.0,27.0,Promotions,Education & Training,Bengaluru
+919,Hinduja,3.7,1300.0,3100.0,66.0,Promotions,NBFC,New Delhi
+920,Best,4.1,1300.0,2900.0,2.0,Company Culture,Retail,Mumbai
+921,Salesforce,3.9,1300.0,15900.0,409.0,Salary,Software Product,Hyderabad
+922,Deccan,3.5,1300.0,5500.0,8.0,Company Culture,Agro Chemicals,Tuni
+923,INDO,4.1,1300.0,4600.0,14.0,Job Security,Metals & Mining,Bengaluru
+924,Johnson,3.9,1300.0,3800.0,7.0,Work Life Balance,Industrial Machinery,Chennai
+925,Rupeek,4.0,1300.0,3400.0,21.0,Work Life Balance,FinTech,Bengaluru
+926,Baazar,4.4,1300.0,1600.0,2.0,Company Culture,Retail,Kolkata
+927,Birla,4.0,1300.0,3800.0,12.0,Work Life Balance,Building Material,Kolkata
+928,Apollo,4.3,1300.0,3600.0,51.0,Work Life Balance,Healthcare,Hyderabad
+929,Dhoot,3.7,1300.0,4000.0,1.0,Promotions,Auto Components,Chhatrapati Sambhajinagar
+930,Thyrocare,3.7,1300.0,4400.0,38.0,Promotions,Healthcare,Mumbai
+931,Intel,4.1,1300.0,9500.0,51.0,Work Life Balance,Semiconductors,Bengaluru
+932,Jabil,4.0,1300.0,4500.0,61.0,Company Culture,Electronics Manufacturing,Pune
+933,Electronica,4.1,1300.0,2800.0,29.0,Salary,NBFC,Pune
+934,MDIndia,3.7,1300.0,3900.0,42.0,Promotions,Insurance,Pune
+935,Solutions,3.8,1300.0,3200.0,77.0,Promotions,IT Services & Consulting,Bengaluru
+936,Biocon,3.7,1300.0,7200.0,1.0,Promotions,Biotechnology,Bengaluru
+937,Jindal,3.5,1300.0,2800.0,0.0,Job Security,BPO,New Delhi
+938,Unity,3.5,1300.0,4600.0,18.0,Promotions,Banking,Mumbai
+939,CaratLane,4.0,1300.0,3200.0,15.0,Skill Development,Jewellery,Chennai
+940,Coca,4.0,1200.0,3500.0,0.0,Work Life Balance,Beverage,Bengaluru
+941,Podar,4.0,1200.0,3300.0,2.0,Job Security,Education & Training,Mumbai
+942,Stanza,3.3,1200.0,3700.0,25.0,Job Security,Internet,Bengaluru
+943,Hitachi,4.1,1200.0,8300.0,584.0,Job Security,Power,Chennai
+944,T,3.7,1200.0,4400.0,154.0,Promotions,"Testing, Inspection and Certification (TIC)",Pune
+945,Nilkamal,3.6,1200.0,3800.0,45.0,Promotions,Furniture & Furnishing,Mumbai
+946,Motilal,4.2,1200.0,1600.0,0.0,Company Culture,NBFC,Mumbai
+947,PayPal,3.7,1200.0,10500.0,0.0,Salary,FinTech,Bengaluru
+948,Navitasys,4.0,1200.0,2800.0,5.0,Salary,Electronics Manufacturing,Bawal
+949,The,3.9,1200.0,3500.0,11.0,Job Security,Engineering & Construction,Noida
+950,Kohler,3.7,1200.0,5300.0,9.0,Promotions,Building Material,Pune
+951,Motherson,3.7,1200.0,4700.0,9.0,Job Security,Electrical Equipment,Noida
+952,SLMG,3.9,1200.0,3800.0,1.0,Work Life Balance,Beverage,Lucknow
+953,Edelweiss,3.7,1200.0,3600.0,28.0,Work Satisfaction,Insurance,Mumbai
+954,Bajaj,3.9,1200.0,3600.0,13.0,Work Life Balance,Auto Components,Gurugram
+955,Malabar,4.1,1200.0,3100.0,112.0,Job Security,Jewellery,Hyderabad
+956,Unicharm,3.9,1200.0,3000.0,0.0,Salary,FMCG,Gurugram
+957,Barbeque,3.7,1200.0,2800.0,5.0,Work Satisfaction,Hospitality,Bengaluru
+958,MG,3.9,1200.0,5100.0,25.0,Promotions,Automobile,Vadodara
+959,TK,3.9,1200.0,4500.0,6.0,Promotions,Industrial Machinery,Pune
+960,PHN,4.1,1200.0,415.0,4.0,Skill Development,EdTech,Pune
+961,Kinara,4.4,1200.0,2200.0,0.0,Company Culture,NBFC,Bengaluru
+962,Jacobs,4.2,1200.0,5500.0,6.0,Work Life Balance,Engineering & Construction,Mumbai
+963,Tata,4.0,1200.0,3600.0,0.0,Salary,NBFC,Mumbai
+964,Hyundai,3.7,1200.0,5300.0,14.0,Salary,Auto Components,Chennai
+965,Dishtv,3.4,1200.0,3400.0,20.0,Promotions,Broadcasting,Noida
+966,FOCUS,3.0,1200.0,3100.0,0.0,Job Security,EdTech,Coimbatore
+967,Godrej,4.0,1200.0,3800.0,3.0,Company Culture,Agriculture,Mumbai
+968,Aarvi,4.0,1200.0,3100.0,224.0,Work Life Balance,Recruitment,Mumbai
+969,ICON,4.0,1200.0,4800.0,7.0,Work Life Balance,Clinical Research,Chennai
+970,Hikal,3.7,1200.0,4900.0,7.0,Job Security,Pharma,Bengaluru
+971,Sundaram,3.9,1200.0,3300.0,8.0,Job Security,NBFC,Chennai
+972,Knorr,3.3,1200.0,5400.0,3.0,Promotions,Auto Components,Pune
+973,ALLEN,3.7,1200.0,4600.0,24.0,Promotions,Education & Training,Kota
+974,Power,4.3,1200.0,2200.0,0.0,Company Culture,Power,Gurugram
+975,Zydus,4.1,1200.0,2800.0,24.0,Salary,FMCG,Ahmedabad
+976,Ocwen,3.7,1200.0,4100.0,28.0,Company Culture,Financial Services,Bengaluru
+977,Sri,3.4,1200.0,3100.0,2.0,Promotions,Education & Training,Hyderabad
+978,Onward,2.8,1200.0,6500.0,37.0,Job Security,IT Services & Consulting,Pune
+979,HPCL,4.4,1200.0,4700.0,0.0,Work Life Balance,Petrochemicals,Bathinda
+980,Advantmed,3.9,1200.0,2900.0,22.0,Company Culture,Healthcare,Ahmedabad
+981,MAHLE,3.8,1200.0,3700.0,0.0,Job Security,Auto Components,Pune
+982,CALIBEHR,3.9,1200.0,2800.0,24.0,Company Culture,IT Services & Consulting,Mumbai
+983,Barclays,3.7,1200.0,4400.0,275.0,Promotions,Financial Services,Chennai
+984,Shyam,3.5,1200.0,4000.0,10.0,Work Satisfaction,Iron & Steel,Kolkata
+985,Syngenta,4.1,1200.0,3800.0,33.0,Company Culture,Agriculture,Pune
+986,Piaggio,3.6,1200.0,3900.0,33.0,Promotions,Automobile,Pune
+987,Gmmco,4.1,1200.0,3000.0,4.0,Skill Development,Industrial Machinery,Chennai
+988,Kirloskar,3.8,1200.0,4500.0,23.0,Work Life Balance,Industrial Machinery,Pune
+989,Tube,3.8,1200.0,3900.0,48.0,Job Security,Auto Components,Chennai
+990,Edelweiss,3.6,1200.0,5300.0,0.0,Promotions,Financial Services,Mumbai
+991,Integra,4.2,1200.0,3300.0,33.0,Company Culture,IT Services & Consulting,Puducherry
+992,QX,3.0,1200.0,4900.0,43.0,Promotions,BPO,Ahmedabad
+993,BDR,4.2,1200.0,2200.0,7.0,Job Security,Pharma,Vadodara
+994,Vedanta,3.8,1200.0,4700.0,0.0,Salary,Metals & Mining,Jharsuguda
+995,Skipper,3.8,1200.0,3400.0,6.0,Promotions,Industrial Machinery,Kolkata
+996,Thermo,3.8,1200.0,7100.0,160.0,Work Life Balance,Biotechnology,Bengaluru
+997,Zudio,3.9,1200.0,2400.0,0.0,Job Security,Retail,New Delhi
+998,Writer,3.2,1200.0,3800.0,3.0,Promotions,BPO,Mumbai
+999,Siemens,4.0,1200.0,6800.0,0.0,Work Life Balance,Power,Pune
