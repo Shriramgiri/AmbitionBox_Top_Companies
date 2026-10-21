@@ -28,7 +28,7 @@ The goal was not simply to learn Python or create charts, but to work with a rea
 
 ## Data Source
 
-**Source:** [AmbitionBox](https://www.ambitionbox.com/)
+### *Source:* [AmbitionBox](https://www.ambitionbox.com/)
 
 The data was collected from AmbitionBox's public **list of companies** pages.
 
